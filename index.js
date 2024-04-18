@@ -4,13 +4,8 @@ const fs = require('fs');
 
 app.set('view engine', 'ejs');
 
-
-app.get('/admin', (req, res) => {
-  res.render('admin/main');
-});
-
 app.get('/', (req, res) => {
-  fs.readFile('data/data.json', 'utf8', (err, data) => {
+  fs.readFile('./data/data.json', 'utf8', (err, data) => {
     if (err) {
       res.status(500).send('Error reading data file');
     } else {

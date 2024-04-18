@@ -1,7 +1,18 @@
 {
+  "name": "community-programming",
+  "version": "1.0.0",
+  "description": "Template Landing Pages Programming Community Node + Ejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "fs": "^0.0.1-security"
-  }
+  },
+  "keywords": [],
+  "author": "HyTech Group",
+  "license": "MIT"
 }

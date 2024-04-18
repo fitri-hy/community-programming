@@ -1,0 +1,39 @@
+<section class="market-place_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="market_place-content">
+                    <h2 data-aos="fade-down"><%= JSON.stringify(data.api.title1).replace(/"/g, '') %> <span><%= JSON.stringify(data.api.title2).replace(/"/g, '') %></span></h2>
+                    <p data-aos="fade-right"><%= JSON.stringify(data.api.description).replace(/"/g, '') %></p>
+                </div>
+            </div>
+            <figure class="marketplace_shape mb-0">
+                <img src="/assets/images/marketplace_shape.png" alt="" data-aos="flip-up">
+            </figure>
+        </div>
+        <div class="tabs-box tabs-options">
+            <div class="tab-content">
+                <div id="art" class="tab-pane fade in active show">
+                    <div class="row">
+                        <% data.api.tools.forEach(function(item) { %>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 padding_bottom">
+                            <div class="marketplace_box_content">
+                                <figure>
+                                    <img src="<%= item.img %>" alt="" class="w-100">
+                                </figure>
+                                <span class="creative_logo"><i class="fa-brands fa-ethereum"></i></span>
+                                <div class="image_price_wrapper">
+                                    <span class="creative_image d-block"><%= item.title %></span>
+                                </div>
+                                <div class="btn_wrapper">
+                                    <a class="text-decoration-none text-white place_bid" href="<%= item.button_url %>"><%= item.button %></a>
+                                </div>
+                            </div>
+                        </div>
+                        <% }); %>
+                    </div>    
+                </div>
+            </div>
+        </div> 
+    </div>
+</section>

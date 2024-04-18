@@ -1,0 +1,32 @@
+<section class="create-sell_nft_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="create_sell-content">
+                    <h2 data-aos="fade-down"><%= JSON.stringify(data.subdomain.title1).replace(/"/g, '') %> <span> <%= JSON.stringify(data.subdomain.title2).replace(/"/g, '') %></span></h2>
+                    <p data-aos="fade-right"><%= JSON.stringify(data.subdomain.description).replace(/"/g, '') %></p>
+                </div>
+            </div>
+            <figure class="create_sell_shape mb-0">
+                <img src="/assets/images/plus_shape.png" alt="" data-aos="flip-up">
+            </figure>
+        </div>
+        <div class="row">
+            <% data.subdomain.card.forEach(function(item) { %>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="create-sell_box_content">
+                    <figure>
+                        <img src="<%= item.icon %>" alt="">
+                    </figure>
+                    <h3><%= item.title %></h3>
+                    <p class="sub_p"><%= item.description %></p>
+                </div>
+            </div>
+            <% }); %>
+        </div>
+        <div class="btn_wrapper" data-aos="fade-left">
+            <a class="text-decoration-none text-white create_btn" href="<%= JSON.stringify(data.subdomain.button1_url).replace(/"/g, '') %></a>"><%= JSON.stringify(data.subdomain.button1).replace(/"/g, '') %></a>
+            <a class="text-decoration-none watch_btn" href="<%= JSON.stringify(data.subdomain.button2_url).replace(/"/g, '') %></a>"><%= JSON.stringify(data.subdomain.button2).replace(/"/g, '') %></a>
+        </div>
+    </div>
+</section>

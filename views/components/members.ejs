@@ -1,0 +1,26 @@
+<section class="top-creactor_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="top_creator-content">
+                    <h2 data-aos="fade-down"><%= JSON.stringify(data.members.title1).replace(/"/g, '') %> <span><%= JSON.stringify(data.subdomain.title2).replace(/"/g, '') %></span></h2>
+                    <p data-aos="fade-right"><%= JSON.stringify(data.members.description).replace(/"/g, '') %></p>
+                </div>
+            </div>
+            <figure class="top-creator_shape mb-0">
+                <img src="/assets/images/top_creator_shapes.png" alt="" data-aos="fade-up">
+            </figure>
+        </div>
+        <div class="row">
+            <% data.members.user.forEach(function(item) { %>
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                <div class="top-creator_box_content">
+                    <figure>
+                        <img src="<%= item.avatar %>" alt="">
+                    </figure>
+                </div>
+            </div>
+            <% }); %>
+        </div>
+    </div>
+</section>

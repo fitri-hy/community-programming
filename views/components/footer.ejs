@@ -1,0 +1,117 @@
+<section class="footer-section">
+    <div class="container">
+        <!--
+        <div class="middle-portion">
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                    <figure class="footer-logo text-left">
+                        <img src="/assets/images/footer_logo.png" alt="">
+                    </figure>
+                    <ul class="list-unstyled mb-0 text-left icons_social">
+                        <li>
+                            <p class="footer_paragraph">Warung Program adalah komunitas programming terbesar di indonesia, Ayo bergabunglah dan berkontribusi bersama kami.</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-3 col-xs-12 d-lg-block d-none">
+                    <h5>Artikel</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Tutorial</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Belajar</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Modul</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Sistem Keamanan</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">App Mobile</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 d-md-block d-none">
+                    <h5>Komunitas</h5>
+                    <ul class="list-unstyled mb-0">
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="https://designingmedia.com/support">Bantuan</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Tentang</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Kontak</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Term</a>
+                        </li>
+                        <li class="arrow">
+                            <i class="fa-solid fa-caret-right"></i>
+                            <a href="#">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 d-sm-block d-none">
+                    <h5>Dukungan</h5>
+                    <ul class="list-unstyled mb-4">
+                        <li class="arrow">
+                            <span class="support">Email:</span>
+                            <a href="#">help@warprog.dev</a>
+                        </li>
+                        <li class="arrow">
+                            <span class="phone">Phone:</span>
+                            <a href="#">+62 812-3456-7890</a>
+                        </li>
+                    </ul>
+                    <ul class="list-unstyled mb-0">
+                        <li class="icons">
+                            <a href="#"><i class="fa-brands fa-facebook-square"></i></a> 
+                        </li>
+                        <li class="icons">
+                           <a href="#"><i class="fa-brands fa-twitter-square"></i></a> 
+                        </li>
+                        <li class="icons">
+                            <a href="#"><i class="fa-brands fa-instagram-square"></i></a> 
+                        </li>
+                        <li class="icons">
+                           <a href="#"><i class="fa-brands fa-github-square"></i></a> 
+                        </li>
+                    </ul>
+                </div>
+                <figure class="footer_shape mb-0">
+                    <img src="/assets/images/footer_shape.png" alt="">
+                </figure>
+            </div>
+        </div>
+        -->
+        <div class="bottom-portion">
+            <div class="row">
+                <div class="copyright col-lg-6 col-md-6 col-sm-12 col-xs-12"> 
+                    <p><%= JSON.stringify(data.footer.copyright).replace(/"/g, '') %></p>
+                </div>
+                <div class="payment col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <ul class="list-unstyled mb-0">
+                        <li>
+                            <span>Developer by:</span>
+                        </li>
+                        <li class="icons">
+                            <span><a href="<%= JSON.stringify(data.footer.developer_url).replace(/"/g, '') %>"><%= JSON.stringify(data.footer.developer).replace(/"/g, '') %></a></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,30 @@
+<div class="carts_outer float-left w-100">
+    <div class="carts">
+        <ul class="list-unstyled">
+            <li class="first">
+                <figure class="mb-0 d-inline-block"><img src="<%= JSON.stringify(data.count.icon1).replace(/"/g, '') %>" alt=""></figure>
+                <div class="carts_wrapper">
+                    <span class="rating counter"><%= JSON.stringify(data.count.number1).replace(/"/g, '') %></span>
+                    <span class="plus_sign"><%= JSON.stringify(data.count.subnumber1).replace(/"/g, '') %></span>
+                    <span class="profession"><%= JSON.stringify(data.count.title1).replace(/"/g, '') %></span>
+                </div>
+            </li>
+            <li class="second">
+                <figure class="mb-0 d-inline-block"><img src="<%= JSON.stringify(data.count.icon2).replace(/"/g, '') %>" alt=""></figure>
+                <div class="carts_wrapper">
+                    <span class="rating counter"><%= JSON.stringify(data.count.number2).replace(/"/g, '') %></span>
+                    <span class="plus_sign"><%= JSON.stringify(data.count.subnumber3).replace(/"/g, '') %></span>
+                    <span class="profession"><%= JSON.stringify(data.count.title3).replace(/"/g, '') %></span>
+                </div>
+            </li>
+            <li class="third">
+                <figure class="mb-0 d-inline-block"><img src="<%= JSON.stringify(data.count.icon3).replace(/"/g, '') %>" alt=""></figure>
+                <div class="carts_wrapper">
+                    <span class="rating counter"><%= JSON.stringify(data.count.number3).replace(/"/g, '') %></span>
+                    <span class="plus_sign"><%= JSON.stringify(data.count.subnumber3).replace(/"/g, '') %></span>
+                    <span class="profession"><%= JSON.stringify(data.count.title3).replace(/"/g, '') %></span>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

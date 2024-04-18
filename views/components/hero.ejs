@@ -1,0 +1,30 @@
+<section class="banner-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-md-left text-center">
+                <div class="banner-section-content">
+                    <h6 data-aos="fade-down"><%= JSON.stringify(data.hero.subtitle).replace(/"/g, '') %></h6>
+                    <h2 data-aos="fade-up"><%= JSON.stringify(data.hero.title1).replace(/"/g, '') %>
+                        <span><%= JSON.stringify(data.hero.title2).replace(/"/g, '') %></span></h2>
+                    <p data-aos="fade-right"><%= JSON.stringify(data.hero.description).replace(/"/g, '') %></p>
+                    <div class="btn_wrapper" data-aos="fade-up">
+                        <a class="text-decoration-none text-white explore_btn" href="<%= JSON.stringify(data.hero.button_url).replace(/"/g, '') %>"><%= JSON.stringify(data.hero.button_text).replace(/"/g, '') %></a>
+                        <a class="text-decoration-none playbtn" href="<%= JSON.stringify(data.hero.button_video).replace(/"/g, '') %>"><i class="fa-solid fa-play"></i></a>
+                    </div>
+                </div>
+                <div class="banner_shapes">
+                    <figure class="mb-0">
+                        <img src="/assets/images/digital_header_shapes.png" alt="" data-aos="fade-down">
+                    </figure>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="banner-section-image">
+                    <figure class="mb-0">
+                        <img src="<%= JSON.stringify(data.hero.img).replace(/"/g, '') %>" alt="hero" data-aos="fade-up">
+                    </figure> 
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

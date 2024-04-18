@@ -1,0 +1,18 @@
+<section class="join-community_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="join_community-content">
+                    <h2><%= JSON.stringify(data.subscription.title1).replace(/"/g, '') %> <span><%= JSON.stringify(data.subscription.title2).replace(/"/g, '') %></span></h2>
+                    <p><%= JSON.stringify(data.subscription.description).replace(/"/g, '') %></p>
+                </div>
+            </div>
+            <figure class="join-community_shape mb-0">
+                <img src="/assets/images/community_shape.png" alt="">
+            </figure>
+        </div>
+        <div class="btn_wrapper">
+            <a class="text-decoration-none text-white join_btn" href="<%= JSON.stringify(data.subscription.button_url).replace(/"/g, '') %>"><%= JSON.stringify(data.subscription.button).replace(/"/g, '') %></a>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,239 @@
+{
+    "head": {
+        "title": "Warung Program | Developer by Happy Coding"
+    },
+    "header": {
+        "img_logo": "/assets/images/digitalrealism_logo.png",
+        "menu1": "Beranda",
+        "menu1_url": "/",
+        "menu2": "Alat",
+        "menu2_url": "#",
+        "menu3": "API",
+        "menu3_url": "#",
+        "menu4": "Grup",
+        "menu4_url": "#",
+        "menu5": "Tentang",
+        "menu5_url": "#",
+        "whatsapp": "Komunitas",
+        "whatsapp_url": "#",
+        "github": "Github",
+        "github_url": "#"
+    },
+    "hero": {
+        "subtitle": "Selamat Datang !!",
+        "title1": "Official Website",
+        "title2": "Warung Program",
+        "description": "Warung Program adalah komunitas programming terbesar di indonesia, Ayo bergabunglah dan berkontribusi bersama kami.",
+        "button_text": "Bergabung",
+        "button_url": "#",
+        "button_video": "#",
+        "img": "/assets/images/wolf.png"
+    },
+    "count": {
+        "icon1": "/assets/images/cart.png",
+        "number1": "36",
+        "subnumber1": "k+",
+        "title1": "Aksi",
+        "icon2": "/assets/images/artworks.png",
+        "number2": "58",
+        "subnumber2": "k+",
+        "title2": "Diskusi",
+        "icon3": "/assets/images/artist.png",
+        "number3": "512",
+        "subnumber3": "k+",
+        "title3": "Anggota"
+    },
+    "contribution": {
+        "title1": "Anggota",
+        "title2": "Berkontribusi.",
+        "description": "Dukung dan lihat lebih jauh tentang Profile developer yang ikut serta berkontribusi dalam pembuatan proyek kami ini.",
+        "dev": [
+            {
+                "name": "Fitri HY",
+                "avatar": "https://img.freepik.com/premium-photo/cartoon-character-with-hoodie-that-says-i-m-dj_784625-10860.jpg",
+                "stack": "Fullstack",
+                "button_text": "Lihat",
+                "button_url": "#"
+            },
+            {
+                "name": "Angga",
+                "avatar": "https://img.freepik.com/premium-photo/cartoon-character-with-blue-hair-glasses-front-city-background_784625-10616.jpg",
+                "stack": "Frontend",
+                "button_text": "Lihat",
+                "button_url": "#"
+            },
+            {
+                "name": "Jehan",
+                "avatar": "https://img.freepik.com/premium-photo/cartoon-character-with-sunglasses-hoodie-that-says-word-it_784625-9679.jpg",
+                "stack": "Fullstack",
+                "button_text": "Lihat",
+                "button_url": "#"
+            },
+            {
+                "name": "Agus Slmm",
+                "avatar": "https://img.freepik.com/premium-photo/3d-avatar-boy-character_914455-593.jpg",
+                "stack": "Frontend",
+                "button_text": "Lihat",
+                "button_url": "#"
+            },
+            {
+                "name": "Rehanaf",
+                "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmjOA29L9NdvQ-oe9daWrQI4ohz4ZKdgrDAgVcG-S5KAL-ke-wzZntATJzg0R5L6-s-Q&usqp=CAU",
+                "stack": "Frontend",
+                "button_text": "Lihat",
+                "button_url": "#"
+            },
+            {
+                "name": "Kevin",
+                "avatar": "https://img.freepik.com/premium-photo/cartoon-character-with-glasses-hoodie-that-says-game-is-dark-background_784625-10705.jpg?w=360",
+                "stack": "UI/UX",
+                "button_text": "Lihat",
+                "button_url": "#"
+            }
+        ]
+    },
+    "subdomain": {
+        "title1": "Subdomain",
+        "title2": ".warprog.dev",
+        "description": "Dapatkan gratis subdomain .warprog.dev untuk menandakan bahwa Anda adalah bagian dari komunitas kami.",
+        "button1": "Buat Subdomain",
+        "button1_url": "#",
+        "button2": "Video Tutorial",
+        "button2_url": "#",
+        "card": [
+            {
+                "icon": "/assets/images/create_artwork.png",
+                "title": "Vercel",
+                "description": "Deploy proyek Anda di vercel.app untuk data sumber."
+            },
+            {
+                "icon": "/assets/images/upload.png",
+                "title": "Subdomain",
+                "description": "Request Subdomain .warprog.dev untuk identitas."
+            },
+            {
+                "icon": "/assets/images/lisiting.png",
+                "title": "Live",
+                "description": "Proyek Anda siap tayang di Google pencarian."
+            }
+        ]
+    },
+    "members": {
+        "title1": "Anggota",
+        "title2": "Terbaik",
+        "description": "Kenapa menjadi yang tebraik? Anggota terbaik ialah yang selalu aktif dan selalu berkontribusi di dalam komunitas kami.",
+        "user": [
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            },
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            },
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            },
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            },
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            },
+            {
+                "avatar": "/assets/images/top_creator_1.png"
+            }
+        ]
+    },
+    "api": {
+        "title1": "API",
+        "title2": "Publik",
+        "description": "Beberapa API Public yang mungkin bermanfaat untuk mempermudah proses pembuatan proyek Anda.",
+        "tools": [
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": " Gemini AI",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": " Open AI",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": " HTTP Parser",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": " SSL Checker",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": "Translate",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": "Internet Speed",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": "Weather",
+                "button": "Lihat API",
+                "button_url": "#"
+            },
+            {
+                "img": "/assets/images/marketplace_1.jpg",
+                "title": "Earthquake",
+                "button": "Lihat API",
+                "button_url": "#"
+            }
+        ]
+    },
+    "subscription": {
+        "title1": "Bergabunglah Dengan",
+        "title2": "Komunitas WarProg",
+        "description": "Komunitas WarProg terbuka untuk semua orang yang tertarik dengan pemrograman, terlepas dari tingkat keahlian atau latar belakang Anda.",
+        "button": "Bergabung Sekarang",
+        "button_url": "#"
+    },
+    "stack": {
+        "title1": "Bahasa",
+        "title2": "Pemprogramman",
+        "description": "WarProg membahas, berdiskusi, dan tanya jawab dalam semua bahasa pemprograman.",
+        "img": [
+            {
+                "src": "https://skillicons.dev/icons?i=html"
+            },
+            {
+                "src": "https://skillicons.dev/icons?i=css"
+            },
+            {
+                "src": "https://skillicons.dev/icons?i=js"
+            },
+            {
+                "src": "https://skillicons.dev/icons?i=php"
+            },
+            {
+                "src": "https://skillicons.dev/icons?i=sass"
+            },
+            {
+                "src": "https://skillicons.dev/icons?i=mongo"
+            }
+        ]
+    },
+    
+    "footer": {
+        "copyright": "Copyright ©2024 WarProg. All Rights Reserved",
+        "developer": "Happy Coding Group",
+        "developer_url": "https://happycoding.my.id"
+    }
+}

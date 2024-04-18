@@ -1,0 +1,26 @@
+<section class="trusted-wallet_section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="trusted_wallet-content">
+                    <h2><%= JSON.stringify(data.stack.title1).replace(/"/g, '') %> <span><%= JSON.stringify(data.stack.title2).replace(/"/g, '') %></span></h2>
+                    <p><%= JSON.stringify(data.stack.description).replace(/"/g, '') %></p>
+                </div>
+            </div>
+            <figure class="trusted-wallet_shape mb-0">
+                <img src="/assets/images/trusted_wallet_shape.png" alt="">
+            </figure>
+        </div>
+        <div class="row">
+            <% data.stack.img.forEach(function(item) { %>
+            <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6">
+                <div class="trusted-wallet_box_content">
+                    <figure class="mb-0">
+						<img height="100" width="100" src="<%= item.src %>" />
+                    </figure>
+                </div>
+            </div>
+            <% }); %>
+        </div>
+    </div>
+</section>

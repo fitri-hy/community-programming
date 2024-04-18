@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="trading_auctions-content">
+            <h2 data-aos="fade-down"><%= JSON.stringify(data.contribution.title1).replace(/"/g, '') %> <span><%= JSON.stringify(data.contribution.title2).replace(/"/g, '') %></span></h2>
+            <p data-aos="fade-right"><%= JSON.stringify(data.contribution.description).replace(/"/g, '') %></p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="owl-carousel owl-theme">
+        <% data.contribution.dev.forEach(function(item) { %>
+        <div class="item">
+            <div class="trading_box_content">
+                <span class="creative_image"><%= item.name %></span>
+                <figure>
+                    <img src="<%= item.avatar %>" alt="" class="w-100">
+                </figure>
+                <div class="price_tag">
+                    <span class="creative_price d-block"><i class="fa-solid fa-code"></i> <%= item.stack %></span>
+                </div>
+                <div class="btn_wrapper">
+                    <a class="text-decoration-none text-white place_bid" href="<%= item.button_url %>"><%= item.button_text %></a>
+                </div>
+            </div>
+        </div>
+        <% }); %>
+    </div>
+</div>

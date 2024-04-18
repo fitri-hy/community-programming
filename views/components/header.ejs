@@ -1,0 +1,37 @@
+<header>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="<%= JSON.stringify(data.header.menu1_url).replace(/"/g, '') %>"><figure class="mb-0"><img src="<%= JSON.stringify(data.header.img_logo).replace(/"/g, '') %>" alt="logo"></figure></a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="<%= JSON.stringify(data.header.menu1_url).replace(/"/g, '') %>"><%= JSON.stringify(data.header.menu1).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= JSON.stringify(data.header.menu2_url).replace(/"/g, '') %>"><%= JSON.stringify(data.header.menu2).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= JSON.stringify(data.header.menu3_url).replace(/"/g, '') %>"><%= JSON.stringify(data.header.menu3).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= JSON.stringify(data.header.menu4_url).replace(/"/g, '') %>"><%= JSON.stringify(data.header.menu4).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= JSON.stringify(data.header.menu5_url).replace(/"/g, '') %>"><%= JSON.stringify(data.header.menu5).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item mr-2">
+                        <a class="nav-link login_btn" href="<%= JSON.stringify(data.header.whatsapp_url).replace(/"/g, '') %>"><i class="fa-brands fa-whatsapp"></i><%= JSON.stringify(data.header.whatsapp).replace(/"/g, '') %></a>
+                    </li>
+                    <li class="nav-item ml-0">
+                        <a class="nav-link sell_btn" href="<%= JSON.stringify(data.header.github_url).replace(/"/g, '') %>"><i class="fa-brands fa-github"></i><%= JSON.stringify(data.header.github).replace(/"/g, '') %></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>

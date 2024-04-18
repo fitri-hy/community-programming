@@ -1,0 +1,4470 @@
+/* Media Queries  */
+
+@media screen and (max-width: 1899px){
+    .banner-section-outer {
+        background-size: auto;
+    }
+
+    .top-creactor_section .top-creator_shape {
+        left: 90px;
+    }
+
+    .join-community_section .join-community_shape {
+        left: 75px;
+    }
+
+    .customer-section .customer_shape {
+        left: 90px;
+    }
+
+    .sub-banner-section{
+        background-size: auto;
+    }
+
+    .super_rare-section .super_rare_shape {
+        top: 70px;
+        left: 160px;
+    }
+
+    .timeline_section .timeline_shape {
+        top: 140px;
+        left: 85px;
+    }
+
+    .contact_map_section .contact_map_shape {
+        top: 25px;
+        right: 135px;
+    }
+
+    .asked_questions-section .asked_questions_shape {
+        top: 70px;
+        left: 150px;
+    }
+
+    .vision_realism-section .vision_realism_shape {
+        top: 70px;
+        left: 150px;
+    }
+}
+@media screen and (max-width: 1599px){
+    .top-creactor_section .top-creator_shape {
+        left: -100px;
+    }
+
+    .join-community_section .join-community_shape {
+        left: -85px;
+    }
+
+    .trusted-wallet_section .trusted-wallet_shape {
+        top: 70px;
+        right: 200px;
+    }
+
+    .customer-section .customer_shape {
+        left: -110px;
+    }
+
+    .timeline_section .timeline_shape {
+        top: 140px;
+        left: -80px;
+    }
+
+    .question_answer-section .question_answer_shape {
+        top: -12px;
+        left: -255px;
+    }
+}
+@media screen and (max-width: 1440px){
+    .banner-section-outer {
+        background-size: auto;
+    }
+
+    .navbar { 
+        padding: 20px 0;
+    }
+    .navbar-nav li {
+        margin: 0 15px;
+    }
+    .navbar-nav li:last-child {
+        margin-left: 0;
+    }
+    .drop-down-pages li {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    h1 {
+        font-size: 65px;
+        line-height: 72px;
+    }
+    .banner-section {
+        padding: 125px 0;
+    }
+    .btn_wrapper .explore_btn {
+        margin-right: 10px;
+        padding: 22px 35px;
+    }
+    .btn_wrapper .playbtn {
+        padding: 16px 22px;
+    }
+
+    .create-sell_nft_section{
+        overflow: hidden;
+    }
+    .create-sell_nft_section .create_sell_shape {
+        top: 85px;
+        left: 235px;
+    }
+    
+    .top-creactor_section .top-creator_shape{
+        top: 40px;
+        left: -356px;
+    }
+
+    .market-place_section .marketplace_shape {
+        top: 90px;
+        left: 150px;
+    }
+
+    .join-community_section{
+        overflow: hidden;
+    }
+    .join-community_section .join-community_shape{
+        top: 90px;
+        left: -340px;
+    }
+
+    .trusted-wallet_section .trusted-wallet_shape{
+        top: 85px;
+        right: 95px;
+    }
+
+    .customer-section .customer_shape{
+        top: 180px;
+        left: -255px;
+    }
+
+    .partners_section .partners_shape {
+        top: 90px;
+        left: 250px;
+    }
+
+    .footer-section .footer_shape{
+        bottom: 130px;
+        right: 25px;
+    }
+
+    .sub-banner-section {
+        background-size: auto;
+    }
+    .sub-banner-section .banner-section h1 {
+        font-size: 55px;
+        line-height: 72px;
+    }
+
+    .super_rare-section .super_rare_shape {
+        top: 50px;
+        left: 10px;
+    }
+
+    .nft_space_section .nft_space_shape {
+        top: 85px;
+        left: 115px;
+    }
+
+    .timeline_section {
+        overflow: hidden;
+    }
+    .timeline_section .timeline_shape {
+        left: -230px;
+    }
+
+    .collections_section .collections_shape {
+        left: 165px;
+    }
+
+    .vision_realism-section .vision_realism_shape {
+        top: 50px;
+        left: 10px;
+    }
+
+    .asked_questions-section .asked_questions_shape {
+        top: 50px;
+        left: 10px;
+    }
+
+    .question_answer-section .question_answer_shape {
+        top: 210px;
+        left: -300px;
+    }
+
+    .upload_work_section .upload_work_shape {
+        left: 150px;
+    }
+
+    .contact_info-section .contact_info_shape {
+        top: 80px;
+        left: 150px;
+    }
+
+    .contact_form_section .contact_form_shape {
+        top: 30px;
+        left: 30px;
+    }
+
+    .contact_map_section .contact_map_shape {
+        top: 15px;
+        right: 15px;
+    }
+    .contact_map_section iframe {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1199px){
+    .navbar {
+        padding: 18px 0;
+    }
+    .navbar-collapse ul {
+        margin-left: 115px;
+    }
+    .navbar-brand img{
+        width: 225px;
+    }
+
+    .banner-section {
+        padding: 100px 0 150px;
+    }
+    .banner-section .banner-section-content {
+        padding-top: 90px;
+    }
+    .banner-section h6 {
+        margin-bottom: 12px;
+    }
+    h6 {
+        font-size: 18px;
+    }
+    h1 {
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .banner-section h1 {
+        margin-bottom: 15px;
+    }
+    p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .banner-section p {
+        margin-bottom: 30px;
+    }
+    .btn_wrapper .explore_btn {
+        margin-right: 5px;
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 30px;
+    }
+    .btn_wrapper .playbtn {
+        padding: 16px 20px;
+        font-size: 16px;
+    }
+    .banner-section .banner_shapes{
+        top: -100px;
+        left: -210px;
+    }
+    .banner-section .banner-section-image img{
+        width: 100%;
+    }
+
+    .trading_auctions-section{
+        padding: 155px 0px 100px;
+    }
+    .trading_auctions-section .carts_outer {
+        margin-top: -220px;
+        margin-left: 30px;
+    }
+    .trading_auctions-section .carts .first {
+        padding: 22px 26px;
+        width: 30%;
+    }
+    .first figure {
+        margin-left: 0;
+    }
+    .trading_auctions-section .carts li img {
+        width: 45px;
+    }
+    .carts .rating {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .carts .plus_sign {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .carts .profession {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .trading_auctions-section .carts .second {
+        padding: 24px 36px;
+        width: 26%;
+    }
+    .trading_auctions-section .carts .third {
+        padding: 22px 26px;
+        width: 30%;
+    }
+    .third figure {
+        margin-left: 0;
+    }
+    .third .carts_wrapper {
+        margin-left: 20px;
+    }
+    .trading_auctions-content h2 {
+        margin-bottom: 20px;
+    }
+    h2 {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .trading_auctions-content p {
+        padding: 0 160px;
+        margin-bottom: 40px;
+    }
+    .trading_box_content {
+        padding: 20px 20px 25px;
+    }
+    .trading_box_content .creative_image {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .trading_box_content .creative {
+        line-height: 22px;
+    }
+    .trading_box_content figure {
+        margin-bottom: 20px;
+    }
+    .trading_box_content .creative_logo {
+        margin-top: 0px;
+    }
+    .trading_box_content i {
+        line-height: 26px;
+        height: 26px;
+        width: 26px;
+    }
+    .trading_box_content .price_tag {
+        margin-bottom: 15px;
+    }
+    .trading_box_content .creative_fixed_price {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .trading_box_content .creative_price {
+        line-height: 18px;
+    }
+    .trading_box_content .place_bid {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 14px 89px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav {
+        margin-top: 40px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin: 0 5px 0 0;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next{
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin: 0 0 0 5px; 
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next span{
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .create-sell_nft_section {
+        padding: 102px 0;
+    }
+    .create-sell_nft_section .create_sell_shape{
+        top: 165px;
+        left: 110px;
+    }
+    .create-sell_box_content {
+        padding: 38px 15px 14px;
+    }
+    h3 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .sub_p {
+        line-height: 26px;
+    }
+    .create-sell_nft_section .btn_wrapper {
+        padding-top: 50px;
+    }
+    .btn_wrapper .create_btn {
+        margin-right: 10px;
+        padding: 20px 32px;
+    }
+    .btn_wrapper .watch_btn {
+        margin-right: 0px;
+        padding: 20px 32px;
+    }
+
+    .top-creactor_section {
+        padding: 100px 0 85px;
+    }
+    .top_creator-content p {
+        padding: 0px 130px;
+        margin-bottom: 40px;
+    }
+    .top-creactor_section .top-creator_shape{
+        top: 47px;
+        left: -555px;
+    }
+
+    .market-place_section {
+        padding: 100px 0 70px;
+    }
+    .market_place-content h2 {
+        margin-bottom: 18px;
+    }
+    .market_place-content p {
+        padding: 0 130px;
+        margin-bottom: 40px;
+    }
+    .market-place_section .marketplace_shape {
+        top: 55px;
+        left: 90px;
+    }
+    .market-place_section .nav-tabs {
+        padding: 0 195px;
+        margin-bottom: 45px;
+    }
+    .market-place_section .nav-tabs li {
+        margin-right: 12px;
+    }
+    .marketplace_box_content .image_price_wrapper {
+        margin-bottom: 18px;
+    }
+    .marketplace_box_content .creative_logo {
+        bottom: 185px;
+    }
+    .marketplace_box_content .place_bid {
+        padding: 12px 35px 12px 30px;
+    }
+
+    .join-community_section {
+        padding: 100px 0;
+    }
+    .join_community-content {
+        margin-left: 0;
+    }
+    .join_community-content h2 {
+        margin-bottom: 16px;
+        padding: 0 220px 0 190px;
+    }
+    .join_community-content p {
+        padding: 0 190px 0 170px;
+        margin-bottom: 35px;
+    }
+    .join-community_section .join-community_shape{
+        top: 30px;
+        left: -520px;
+    }
+    .btn_wrapper .join_btn {
+        margin-right: 10px;
+        margin-left: 0;
+        padding: 20px 40px;
+    }
+    .btn_wrapper .login_btn {
+        margin-right: 0;
+        padding: 20px 28px;
+    }
+
+    .trusted-wallet_section {
+        padding: 100px 0 75px;
+    }
+    .trusted_wallet-content {
+        margin-left: 0;
+    }
+    .trusted_wallet-content h2 {
+        margin-bottom: 24px;
+    }
+    .trusted_wallet-content p {
+        padding: 0 140px;
+        margin-bottom: 50px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape{
+        top: 125px;
+        right: 65px;
+    }
+
+    .customer-section {
+        padding: 100px 0 90px;
+    }
+    .customer-section .customer_shape{
+        top: 40px;
+        left: -520px;
+    }
+    .customer_heading h2 {
+        margin-bottom: 30px;
+    }
+    .customer_content img {
+        width: 220px !important;
+    }
+    .customer_content .customer_paragraph {
+        font-size: 22px;
+        line-height: 36px;
+        padding: 0 60px;
+        margin-bottom: 15px;
+    }
+    .customer_content .customer_name {
+        font-size: 22px;
+        line-height: 36px;
+    }
+    .customer_content .company_ceo {
+        line-height: 36px;
+    }
+
+    .partners_section {
+        padding: 100px 0;
+    }
+    .partners_section .partners_shape {
+        top: 50px;
+        left: 210px;
+    }
+    .partners-content p {
+        padding: 0 150px 0 200px;
+        margin-bottom: 50px;
+    }
+    .partners_section ul li {
+        height: 140px;
+        line-height: 140px;
+    }
+
+    .footer-section {
+        padding: 100px 0 0;
+    }
+    .footer-section .middle-portion {
+        margin-bottom: 100px;
+    }
+    .footer-logo {
+        margin-bottom: 25px;
+        margin-left: 0;
+    }
+    .footer_paragraph {
+        padding: 0 15px 0 0;
+        margin-left: 0;
+        margin-bottom: 25px;
+    }
+    .middle-portion .icons_social .live_icons i {
+        width: 42px;
+        height: 42px;
+        line-height: 42px;
+    }
+    .footer-section h5 {
+        margin-bottom: 20px;
+    }
+    h5 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .footer-section .middle-portion ul li a {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .middle-portion ul li .support {
+        margin-right: 0px;
+    }
+    .middle-portion ul li .sale {
+        margin-right: 18px;
+    }
+    .middle-portion ul li .phone {
+        margin-right: 10px;
+    }
+    .middle-portion .mb-4, .my-4 {
+        margin-bottom: 18px!important;
+    }
+    .footer-section .footer_shape{
+        bottom: 115px;
+        right: 18px;
+    }
+    .copyright {
+        padding: 35px 0;
+    }
+    .payment {
+        padding: 30px 0;
+    }
+    .payment span {
+        margin-right: 25px;
+    }
+    .footer-section .bottom-portion ul .icons i {
+        margin-right: 8px;
+    }
+
+    .sub-banner-section .banner-section {
+        padding: 70px 0 95px;
+    }
+    .sub-banner-section .banner-section h1 {
+        font-size: 45px;
+        line-height: 60px;
+        margin-bottom: 12px;
+    }
+    .sub-banner-section .banner-section p {
+        padding: 0 235px;
+        margin-bottom: 25px;
+    }
+    .sub-banner-section .banner-section span {
+        line-height: 24px;
+    }
+    .sub-banner-section .banner-section .about_banner_shape {
+        top: -50px;
+        left: 15px;
+    }
+    
+    .super_rare-section {
+        padding: 100px 0 150px;
+    }
+    .super_rare-section .super_rare_shape {
+        top: 25px;
+        left: 15px;
+    }
+    .super_rare-content h2 {
+        line-height: 52px;
+        margin-bottom: 24px;
+    }
+    .super_rare-content p {
+        margin-bottom: 24px;
+    }
+    .btn_wrapper .discovery_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 24px;
+    }
+
+    .next_oppurtunity-section {
+        padding: 163px 0 100px;
+    }
+    .next_oppurtunity-section .carts_outer {
+        margin-top: -220px;
+        margin-left: 30px;
+    }
+    .next_oppurtunity-section .carts .first {
+        padding: 22px 26px;
+        width: 30%;
+    }
+    .next_oppurtunity-section .carts li img {
+        width: 45px;
+    }
+    .next_oppurtunity-section .carts .second {
+        padding: 24px 36px;
+        width: 26%;
+    }
+    .next_oppurtunity-sectionn .carts .third {
+        padding: 22px 26px;
+        width: 30%;
+    }
+    .next_oppurtunity-content p {
+        padding: 0 130px;
+        margin-bottom: 50px;
+    }
+    .next_oppurtunity-section .opportunity_1 {
+        top: 108px;
+        left: -42px;
+    }
+    .next_oppurtunity-section .opportunity_1 img{
+        width: 200px;
+    }
+    .next_oppurtunity-section .opportunity_2 {
+        top: 255px;
+        right: -15px;
+    }
+    .next_oppurtunity-section .opportunity_2 img{
+        width: 200px;
+    }
+    .next_oppurtunity-section .opportunity_3 img{
+        width: 200px;
+    }
+    .btn_wrapper .started_btn {
+        padding: 22px 38px;
+    }
+
+    .nft_space_section {
+        padding: 100px 0;
+    }
+    .nft_space-content h2 {
+        margin-bottom: 18px;
+    }
+    .nft_space-content p {
+        padding: 0 125px;
+        margin-bottom: 50px;
+    }
+    .nft_space_section .nft_space_shape {
+        top: 40px;
+        left: 50px;
+    }
+    .nft-space_box_content {
+        padding: 40px 10px;
+    }
+    .nft-space_box_content figure {
+        margin: 0px 0 26px;
+    }
+    .nft-space_box_content h3 {
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+    .nft-space_box_content .sub_p {
+        margin-bottom: 18px;
+    }
+    .btn_wrapper .learn_more_btn {
+        padding: 10px 20px;
+    }
+
+    .timeline_section {
+        padding: 100px 0 56px;
+    }
+    .timeline-content h2 {
+        margin-bottom: 18px;
+    }
+    .timeline-content p {
+        padding: 0 130px;
+        margin-bottom: 50px;
+    }
+    .timeline_section .timeline_shape {
+        left: -435px;
+    }
+    .timeline_map_content {
+        margin-bottom: 50px;
+    }
+    .timeline_map_content h4 {
+        margin: 12px 0;
+    }
+    h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .timeline_wrapper {
+        margin-left: 180px;
+    }
+    .timeline_map_content2::before {
+        left: -180px;
+    }
+    .timeline_map_content2::after {
+        left: -135px;
+    }
+
+    .wallets_section {
+        padding: 100px 0 70px;
+    }
+    .wallets_content {
+        padding: 20px 12px;
+    }
+    .wallets_content img{
+        width: 85px;
+    }
+    .wallets_content span {
+        font-size: 18px;
+        line-height: 40px;
+    }
+    .wallets_content p {
+        line-height: 22px;
+        margin-top: 5px;
+    }
+
+    .collections_section {
+        padding: 100px 0;
+    }
+    .collections-content p {
+        padding: 0 130px;
+        margin-bottom: 40px;
+    }
+    .collections_section .collections_shape {
+        top: 55px;
+        left: 90px;
+    } 
+    .collections_section .nav-tabs {
+        padding: 0 195px;
+        margin-bottom: 45px;
+    }
+    .collections_section .nav-tabs li {
+        margin-right: 12px;
+    }
+    .collections_section .btn_wrapper {
+        margin-top: 40px;
+    }
+
+    .vision_realism-section{
+        padding: 100px 0;
+    }
+    .vision_realism-section .vision_realism_shape {
+        top: 25px;
+        left: 15px;
+    }
+    .vision_realism-section .vision_realism_icon {
+        right: 35px;
+    }
+    .vision_realism-content h2 {
+        line-height: 52px;
+        margin-bottom: 24px;
+    }
+    .vision_realism-content p {
+        margin-bottom: 24px;
+    }
+
+    .vision_trade-section{
+        padding: 90px 0 100px;
+    }
+    .vision_trade-section .vision_trade_icon {
+        left: 35px;
+    }
+    .vision_trade-content h2 {
+        line-height: 52px;
+        margin-bottom: 24px;
+    }
+    .vision_trade-content p {
+        margin-bottom: 18px;
+    }
+    .vision_trade-content ul {
+        margin-bottom: 32px;
+    }
+    .vision_trade-content ul li {
+        font-size: 18px;
+        line-height: 36px;
+    }
+    .btn_wrapper .learn_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 30px;
+    }
+
+    .asked_questions-section{
+        padding: 100px 0;
+    }
+    .asked_questions-section .asked_questions_shape {
+        top: 25px;
+        left: 15px;
+    }
+    .asked_questions-section .asked_questions_icon {
+        right: 35px;
+    }
+    .asked_questions-content h2 {
+        line-height: 52px;
+        margin-bottom: 24px;
+    }
+    .asked_questions-content p {
+        margin-bottom: 24px;
+    }
+
+    .question_answer-section {
+        padding: 100px 0;
+    }
+    .question_answer_box_content {
+        padding: 34px 30px 32px;
+    }
+    .question_answer_box_content .color_changing {
+        font-size: 22px;
+        line-height: 46px;
+    }
+    .question_answer_box_content span {
+        font-size: 22px;
+        line-height: 46px;
+    }
+    .question_answer_box2_content {
+        padding: 34px 36px 34px;
+    }
+    .question_answer_box2_content ul .tick-color-changing {
+        margin-bottom: 15px;
+    }
+    .question_answer_box2_content .color_changing {
+        font-size: 22px;
+        line-height: 46px;
+    }
+    .question_answer_box2_content .sub_p {
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .question_answer_box2_content span {
+        font-size: 22px;
+        line-height: 46px;
+    }
+    .question_answer-section .question_answer_shape {
+        top: 170px;
+        left: -535px;
+    }
+
+    .upload_work_section {
+        padding: 100px 0;
+    }
+    .upload_work_content .form-control {
+        width: 100%;
+    }
+    .upload_work-heading h2 {
+        margin-bottom: 15px;
+    }
+    .upload_work-heading p {
+        margin-bottom: 60px;
+        padding: 0 130px;
+    }
+    .upload_work_section .upload_work_shape {
+        left: 90px;
+        top: 50px;
+    }
+    .upload_work_box_content {
+        padding: 25px 25px;
+    }
+    .upload_work_box_content .creative_image {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 15px;
+        width: 65%;
+    }
+    .upload_work_box_content .creative {
+        line-height: 22px;
+    }
+    .upload_work_box_content figure {
+        margin-bottom: 20px;
+    }
+    .upload_work_box_content .creative_fixed_price {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .upload_work_box_content .creative_price {
+        line-height: 22px;
+    }
+    .upload_work_box_content .place_bid {
+        padding: 15px 70px;
+    }
+    .upload_work_content {
+        padding: 28px 35px;
+    }
+    .upload_work_content .upper_layer {
+        padding-top: 22px;
+        padding-bottom: 22px;
+    }
+    .upload_work_content .lower_message {
+        padding-bottom: 70px;
+    }
+    .upload_work_content .form_button_wrapper {
+        margin-top: 20px;
+    }
+    .upload_work_content .form_button_wrapper .button_style {
+        padding: 20px 30px;
+    }
+
+    .create_wallets_section {
+        padding: 100px 0 70px;
+    }
+    .create_wallets-content h2 {
+        margin-bottom: 20px;
+        margin-left: 0;
+    }
+    .create_wallets-content p {
+        margin-bottom: 50px;
+        padding: 0 120px;
+    }
+
+    .contact_info-section {
+        padding: 100px 0;
+    }
+    .contact_info_content h2 {
+        margin-bottom: 15px;
+    }
+    .contact_info_content p {
+        padding: 0 125px;
+        margin-bottom: 60px;
+    }
+    .contact_info-section .contact_info_shape {
+        top: 50px;
+        left: 90px;
+    }
+    .contact_info_box_content {
+        padding: 30px 25px 30px;
+    }
+
+    .contact_form_section {
+        padding: 92px 0 100px;
+    }
+    .contact_form_content h2 {
+        margin-bottom: 15px;
+    }
+    .contact_form_content p {
+        margin-bottom: 50px;
+        padding: 0 120px;
+    }
+    .contact_form_section .contact_form_shape {
+        top: 25px;
+        left: 25px;
+    }
+    .contact_form_box_content .form-control {
+        width: 360px;
+    }
+    .contact_form_box_content .message-control .form-control {
+        width: 750px;
+    }
+
+    .contact_map_section .contact_map_shape {
+        top: 20px;
+        right: 20px;
+    }
+
+    .partner-section { 
+        padding: 100px 0; 
+    }
+    .partner-section .heading { 
+        padding-top: 70px; 
+    }
+    .partner-section .auction-middle .left {
+        width: 50%; 
+    }
+    .partner-section .auction-middle .right { 
+        width: 50%; 
+    }
+    .partner-section .auction-middle .name { 
+        font-size: 17px; 
+    }
+    .partner-section .auction-bottom a { 
+        padding: 12px 16px; 
+    }
+    .partner-section .owl-carousel .owl-nav button.owl-next, .partner-section .owl-carousel .owl-nav button.owl-prev { 
+        width: 50px; 
+        height: 50px; 
+        line-height: 50px; 
+    }
+    .partner-section .owl-carousel .owl-nav button.owl-next span, .partner-section .owl-carousel .owl-nav button.owl-prev span { 
+        font-size: 22px; 
+        line-height: 48px; 
+    }
+    .explore-section { 
+        padding: 100px 0 130px 0; 
+    }
+    .explore-section .heading { 
+        padding-left: 0; 
+    }
+    .explore-section .explore-img-1 { 
+        width: 260px; 
+    }
+    .explore-section .explore-img-3 { 
+        width: 240px; 
+    }
+    .explore-section .explore-img-2 { 
+        right: -70px; 
+    }
+    .explore-section .circle-1 { 
+        top: 210px; 
+    }
+    .product-detail { 
+        padding: 100px 0; 
+    }
+    .product-detail .product-tab ul li { 
+        width: 31.2%; 
+    }
+    .product-detail .auction-top .bidder { 
+        font-size: 16px; 
+        line-height: 24px; 
+    }
+    .product-detail .auction-middle .name { 
+        font-size: 16px; 
+    }
+    .product-detail .auction-middle .ending { 
+        font-size: 16px; 
+        line-height: 24px; 
+    }
+    .product-detail .auction-middle .left { 
+        width: 60%; 
+    }
+    .product-detail .auction-middle .right { 
+        width: 40%; 
+    }
+    .product-detail .auction-top figure { 
+        margin-right: 10px; 
+    }
+    .product-detail .heading ul li { 
+        font-size: 16px; 
+        line-height: 24px; 
+    }
+    .product-detail .heading { 
+        margin-bottom: 30px; 
+    }
+
+    .product-section { 
+        padding: 100px 0 70px 0; 
+    }
+    .product-section .product-box-top .name { 
+        font-size: 12px; 
+    }
+    .product-section .product-box-top .rate span { 
+        font-size: 12px; 
+    }
+    .product-section .product-box-top .rate i { 
+        font-size: 12px; 
+    }
+    .nft-section { 
+        padding: 100px 0; 
+    }
+    .nft-section .circle { 
+        right: -25px; 
+    }
+    .nft-section .create-nft-box .form-group { 
+        width: 46.5%; 
+    }
+    .checkout-section .preview-box .btn-outer .btn { 
+        font-size: 16px; 
+        line-height: 16px; 
+        padding: 18px 18px; 
+    }
+}
+
+@media screen and (max-width: 991px){
+    .navbar-collapse {
+        background: #491066;
+        position: absolute;
+        right: 0px;
+        width: 30%;
+        top: 50px;
+        z-index: 16;
+        padding: 0;
+    }
+    .navbar-toggler {
+        margin-left: auto;
+        border: none !important;
+        padding: 0;
+        width: 30px;
+        height: 22px;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: var(--secondary--color);
+        height: 2px;
+        margin: 7px 0 0 0;
+        width: 100%;
+        float: right;
+    }
+    .navbar-toggler.collapsed span:nth-child(1) {
+        transform: rotate(0deg);
+    }
+    .navbar-toggler span.navbar-toggler-icon:first-child {
+        margin-top: 0;
+    }
+    .navbar-toggler span:nth-child(1) {
+        transform: rotate(45deg);
+        transform-origin: 0% 80%;
+    }
+    .navbar-toggler span.navbar-toggler-icon {
+        transition: all 0.15s;
+    }
+    .navbar-toggler.collapsed span:nth-child(2) {
+        opacity: 1;
+    }
+    .navbar-toggler span:nth-child(2) {
+        opacity: 0;
+    }
+    .navbar-toggler.collapsed span:nth-child(3) {
+        transform: rotate(0deg);
+    }
+    .navbar-toggler span:nth-child(3) {
+        transform: rotate(-45deg);
+        transform-origin: 15% 100%;
+    }
+    .collapse:not(.show) {
+        display: none;
+    }
+    .navbar-collapse ul{
+        align-items: unset;
+        text-align: unset;
+        margin-left: 0;
+    }
+    button:focus {
+        outline: none;
+    }
+    .navbar-nav .nav-item a {
+        padding: 12px 30px !important;
+    }
+    .navbar-nav .active > a {
+        color: var(--primary--color) !important;
+        font-weight: bold;
+    }
+    .navbar li {
+        margin: 0 !important;
+        padding: 0;
+    }
+    .navbar-nav .nav-item a {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .navbar-nav .nav-item .login_btn {
+        padding: 12px 30px !important;
+        width: 100%;
+        text-align: left;
+        border-radius: 0;
+        background-image: none;
+    }
+    .navbar-nav .nav-item .login_btn:hover {
+        padding: 12px 30px !important;
+        width: 100%;
+        text-align: left;
+        border-radius: 0;
+        background-image: none;
+        color: var(--primary--color) !important;
+        font-weight: bold;
+    }
+    .navbar-nav .nav-item .sell_btn {
+        padding: 12px 30px !important;
+        width: 100%;
+        text-align: left;
+        border-radius: 0;
+        background: none;
+    }
+    .navbar-nav .nav-item .sell_btn:hover {
+        padding: 12px 30px !important;
+        width: 100%;
+        text-align: left;
+        border-radius: 0;
+        background: none;
+        color: var(--primary--color) !important;
+    }
+    .navbar-nav .dropdown-menu {
+        position: static;
+        border: none;
+    }
+    .navbar-collapse .drop-down-pages {
+        margin-left: 0;
+    }
+    .navbar-nav .drop-down-pages .nav-item a {
+        font-size: 15px;
+        line-height: 15px;
+        padding: 12px 40px !important;
+    }
+    .navbar-nav .drop-down-pages a {
+        padding: 0 !important;
+    }
+    .banner-section {
+        padding: 70px 0 115px;
+    }
+    .banner-section .banner-section-content {
+        padding-top: 15px;
+    }
+    h1 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    h6 {
+        font-size: 16px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 22px;
+        padding-right: 10px;
+    }
+    .banner-section p {
+        margin-bottom: 25px;
+    }
+    .btn_wrapper .explore_btn {
+        padding: 20px 26px;
+    }
+    .btn_wrapper .playbtn {
+        padding: 16px 20px;
+    }
+
+    .trading_auctions-section {
+        padding: 112px 0px 70px;
+    }
+    .trading_auctions-section .carts_outer {
+        margin-top: -168px;
+        margin-left: 35px;
+    }
+    .trading_auctions-section .carts .first {
+        padding: 15px 26px;
+    }
+    .trading_auctions-section .carts li img {
+        width: 42px;
+    }
+    .first .carts_wrapper {
+        margin-left: 10px;
+    }
+    .carts .rating {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .carts .plus_sign {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .carts .profession {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .trading_auctions-section .carts .second {
+        padding: 16px 25px;
+    }
+    .trading_auctions-section .carts .third {
+        padding: 15px 26px;
+    }
+    .third .carts_wrapper {
+        margin-left: 15px;
+    }
+    h2 {
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .trading_auctions-content p {
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+    .trading_box_content .creative_image {
+        line-height: 20px;
+    }
+    .trading_box_content .creative {
+        line-height: 18px;
+    }
+    .trading_box_content figure {
+        margin-bottom: 18px;
+    }
+    .trading_box_content i{
+        font-size: 14px;
+    }
+    .trading_box_content .creative_fixed_price {
+        line-height: 20px;
+    }
+    .trading_box_content .creative_price {
+        line-height: 16px;
+    }
+    .trading_box_content .place_bid {
+        padding: 12px 112px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav {
+        margin-top: 30px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next span{
+        font-size: 22px;
+        line-height: 22px;
+    }
+
+    .create-sell_nft_section {
+        padding: 72px 0;
+    }
+    .create_sell-content h2 {
+        margin-bottom: 20px;
+    }
+    .create_sell-content p {
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+    .create-sell_nft_section .create_sell_shape{
+        top: 60px;
+        left: 35px;
+    }
+    .create-sell_box_content {
+        padding: 20px 5px 14px;
+    }
+    h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .sub_p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-right: 0;
+    }
+    .create-sell_nft_section .btn_wrapper {
+        padding-top: 35px;
+    }
+    .btn_wrapper .create_btn {
+        margin-left: 0;
+        margin-right: 5px;
+        padding: 18px 28px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .btn_wrapper .watch_btn {
+        padding: 18px 28px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .top-creactor_section {
+        padding: 70px 0 55px;
+    }
+    .top_creator-content h2 {
+        margin-bottom: 18px;
+    }
+    .top_creator-content p {
+        padding: 0px 50px;
+        margin-bottom: 30px;
+    }
+    .top-creactor_section .top-creator_shape{
+        display: none;
+    }
+
+    .market-place_section {
+        padding: 70px 0 40px;
+    }
+    .market_place-content p {
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+    .market-place_section .marketplace_shape {
+        top: 30px;
+        left: 20px;
+    }
+    .market-place_section .nav-tabs {
+        padding: 0px 115px;
+        margin-bottom: 30px;
+    }
+    .market-place_section .nav-tabs li {
+        margin-right: 10px;
+    }
+    .market-place_section .tabs-box .nav-tabs li a {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 12px 16px;
+    }
+    .marketplace_box_content {
+        padding: 15px 15px 25px;
+    }
+    .marketplace_box_content figure {
+        margin-bottom: 20px;
+    }
+    .marketplace_box_content .creative {
+        line-height: 22px;
+        width: 75%;
+    }
+    .marketplace_box_content .creative_logo {
+        bottom: 160px;
+        right: 42px;
+    }
+    .marketplace_box_content i {
+        font-size: 14px;
+        line-height: 26px;
+        height: 26px;
+        width: 26px;
+    }
+    .marketplace_box_content .image_price_wrapper {
+        margin-bottom: 15px;
+    }
+    .marketplace_box_content .creative_image {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .marketplace_box_content .creative_price {
+        line-height: 22px;
+    }
+    .marketplace_box_content .place_bid {
+        padding: 10px 30px 10px 25px;
+    }
+
+    .join-community_section {
+        padding: 65px 0 70px;
+    }
+    .join_community-content h2 {
+        margin-bottom: 14px;
+        padding: 0 112px 0 110px;
+    }
+    .join_community-content p {
+        padding: 0 85px 0 130px;
+        margin-bottom: 25px;
+    }
+    .join-community_section .join-community_shape{
+        display: none;
+    }
+    .btn_wrapper .join_btn {
+        margin-right: 5px;
+        padding: 18px 35px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .btn_wrapper .login_btn {
+        padding: 16px 25px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .trusted-wallet_section {
+        padding: 70px 0 50px;
+    }
+    .trusted_wallet-content h2 {
+        margin-bottom: 20px;
+    }
+    .trusted_wallet-content p {
+        padding: 0 90px 0;
+        margin-bottom: 35px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape{
+        top: 35px;
+        right: 35px;
+    }
+
+    .customer-section {
+        padding: 70px 0 60px;
+    }
+    .customer-section .customer_shape{
+        display: none;
+    }
+    .customer_heading h2 {
+        margin-bottom: 15px;
+    }
+    .customer_content img {
+        width: 190px !important;
+    }
+    .customer_content .customer_paragraph {
+        font-size: 20px;
+        line-height: 34px;
+        padding: 0 44px;
+        margin-bottom: 12px;
+    }
+    .customer_content .customer_name {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .customer_content .company_ceo {
+        font-size: 16px;
+        line-height: 34px;
+    }
+
+    .partners_section {
+        padding: 70px 0;
+    }
+    .partners_section .partners_shape {
+        top: 40px;
+        left: 125px;
+    }
+    .partners-content p {
+        padding: 0 100px;
+    }
+    .partners_section ul li {
+        height: 120px;
+        line-height: 120px;
+    }
+
+    .footer-section {
+        padding: 70px 0 0;
+    }
+    .footer-section .middle-portion {
+        margin-bottom: 70px;
+    }
+    .footer-logo {
+        margin-bottom: 20px;
+    }
+    .footer-logo img{
+        width: 175px;
+    }
+    .footer_paragraph {
+        padding: 0 30px 0 0;
+        margin-bottom: 20px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .middle-portion .icons_social .live_icons i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .footer-section h5 {
+        margin-bottom: 18px;
+    }
+    h5 {
+        line-height: 26px;
+    }
+    .footer-section .middle-portion ul li i {
+        margin-right: 5px;
+    }
+    .footer-section .middle-portion ul li a {
+        line-height: 26px;
+    }
+    .middle-portion .mb-4, .my-4 {
+        margin-bottom: 16px!important;
+    }
+    .footer-section .middle-portion ul .icons i {
+        line-height: 26px;
+        margin-right: 8px;
+    }
+    .footer-section .footer_shape{
+        bottom: 100px;
+        right: 20px;
+    }
+    .copyright {
+        padding: 30px 0;
+    }
+    .copyright p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-left: 15px;
+        padding-right: 0;
+    }
+    .payment {
+        padding: 25px 0;
+    }
+    .payment span {
+        margin-right: 20px;
+    }
+    .payment span {
+        font-size: 14px;
+    }
+    .footer-section .bottom-portion ul .icons i {
+        margin-right: 6px;
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .sub-banner-section .banner-section {
+        padding: 70px 0;
+    }
+    .sub-banner-section .banner-section h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .sub-banner-section .banner-section p {
+        padding: 0px 140px;
+        margin-bottom: 20px;
+    }
+    .sub-banner-section .banner-section span {
+        line-height: 20px;
+    }
+    .sub-banner-section .banner-section .about_banner_shape {
+        top: -110px;
+        left: -240px;
+    }
+
+    .super_rare-section {
+        padding: 70px 0 114px;
+    }
+    .super_rare-section .super_rare_shape {
+        top: 6px;
+        left: 40px;
+    }
+    .videoCoverImage iframe {
+        height: 360px;
+        width: 330px;
+    }
+    .super_rare-content h2 {
+        line-height: 44px;
+        margin-bottom: 10px;
+    }
+    .super_rare-content p {
+        margin-bottom: 10px;
+    }
+    .super_rare-content .btn_wrapper {
+        margin-top: 0;
+    }
+    .btn_wrapper .discovery_btn {
+        padding: 16px 20px;
+    }
+
+    .next_oppurtunity-section {
+        padding: 112px 0 70px;
+    }
+    .next_oppurtunity-section .carts_outer {
+        margin-top: -168px;
+        margin-left: 35px;
+    }
+    .next_oppurtunity-section .carts .first {
+        padding: 15px 26px;
+    }
+    .next_oppurtunity-section .carts li img {
+        width: 42px;
+    }
+    .next_oppurtunity-section .carts .second {
+        padding: 16px 25px;
+    }
+    .next_oppurtunity-section .carts .third {
+        padding: 15px 26px;
+    }
+    .next_oppurtunity-content h2 {
+        margin-bottom: 10px;
+        padding: 0 80px;
+    }
+    .next_oppurtunity-content p {
+        padding: 0 45px;
+        margin-bottom: 35px;
+    }
+    .next_oppurtunity-section .opportunity_main_img img{
+        width: 100%;
+    }
+    .next_oppurtunity-section .opportunity_1 {
+        top: 80px;
+        left: -40px;
+    }
+    .next_oppurtunity-section .opportunity_1 img {
+        width: 150px;
+    }
+    .next_oppurtunity-section .opportunity_2 {
+        top: 180px;
+        right: -22px;
+    }
+    .next_oppurtunity-section .opportunity_2 img {
+        width: 150px;
+    }
+    .next_oppurtunity-section .opportunity_3 {
+        bottom: -90px;
+        left: 95px;
+    }
+    .next_oppurtunity-section .opportunity_3 img {
+        width: 150px;
+    }
+    .next_oppurtunity-section .btn_wrapper {
+        margin-top: 55px;
+    }
+    .btn_wrapper .started_btn {
+        padding: 20px 30px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .nft_space_section {
+        padding: 70px 0;
+    }
+    .nft_space-content h2 {
+        margin-bottom: 15px;
+    }
+    .nft_space-content p {
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+    .nft_space_section .nft_space_shape {
+        top: 25px;
+        left: 25px;
+    }
+    .nft-space_box_content figure {
+        margin: 0px 0 22px;
+    }
+    .nft-space_box_content {
+        padding: 30px 10px;
+    }
+    .nft-space_box_content h3 {
+        line-height: 26px;
+        margin-bottom: 8px;
+    }
+    .nft-space_box_content .sub_p {
+        margin-bottom: 15px;
+    }
+    .btn_wrapper .learn_more_btn {
+        padding: 10px 15px;
+    }
+
+    .timeline_section {
+        padding: 70px 0 40px;
+    }
+    .timeline-content h2 {
+        margin-bottom: 15px;
+    }
+    .timeline-content p {
+        padding: 0 45px;
+        margin-bottom: 40px;
+    }
+    .timeline_section .timeline_shape {
+        display: none;
+    }
+    .timeline_section .padding_right {
+        height: 632px;
+    }
+    .timeline_map_content {
+        margin-bottom: 30px;
+    }
+    .timeline_map_content span {
+        line-height: 32px;
+    }
+    .timeline_map_content h4 {
+        margin: 10px 0;
+    }
+    h4 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .timeline_map_content .sub_p {
+        padding-right: 75px;
+    }
+    .timeline_wrapper {
+        margin-left: 95px;
+    }
+    .timeline_map_content::before {
+        width: 40px;
+    }
+    .timeline_map_content::after {
+        height: 40px;
+        width: 40px;
+        top: -38px;
+        right: 38px;
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .timeline_map_content2::before {
+        left: -95px;
+        width: 40px;
+    }
+    .timeline_map_content2::after {
+        left: -56px;
+        height: 40px;
+        width: 40px;
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+    .wallets_section {
+        padding: 70px 0 40px;
+    }
+    .wallets_content {
+        padding: 20px 5px;
+    }
+    .wallets_content img {
+        width: 70px;
+    }
+    .wallets_content span {
+        line-height: 32px;
+    }
+    .wallets_content p {
+        margin-top: 0px;
+    }
+
+    .collections_section {
+        padding: 70px 0;
+    }
+    .collections-content h2 {
+        margin-bottom: 5px;
+        padding: 0px 175px;
+    }
+    .collections-content p {
+        padding: 0 50px;
+        margin-bottom: 30px;
+    }
+    .collections_section .collections_shape {
+        top: 30px;
+        left: 20px;
+    }
+    .collections_section .nav-tabs {
+        padding: 0px 115px;
+        margin-bottom: 30px;
+    }
+    .collections_section .nav-tabs li {
+        margin-right: 10px;
+    }
+    .collections_section .tabs-box .nav-tabs li a {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 12px 16px;
+    }
+    .collections_box_content {
+        padding: 15px 15px;
+    }
+    .collections_section .btn_wrapper {
+        margin-top: 30px;
+    }
+    .btn_wrapper .load_more_btn {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 18px 35px;
+    }
+
+    .vision_realism-section {
+        padding: 70px 0;
+    }
+    .vision_realism-section .vision_realism_img img{
+        width: 100%;
+    }
+    .vision_realism-section .vision_realism_icon {
+        right: 30px;
+        bottom: 75px;
+    }
+    .vision_realism-section .vision_realism_icon img{
+        width: 85px;
+    }
+    .vision_realism-section .vision_realism_shape {
+        top: 6px;
+        left: 40px;
+    }
+    .vision_realism-content h2 {
+        line-height: 44px;
+        margin-bottom: 10px;
+    }
+    .vision_realism-content p {
+        margin-bottom: 10px;
+    }
+    .vision_realism-content .btn_wrapper {
+        margin-top: 0;
+    }
+
+    .vision_trade-section {
+        padding: 60px 0 70px
+    }
+    .vision_trade-section .vision_trade_img img{
+        width: 100%;
+    }
+    .vision_trade-section .vision_trade_icon {
+        left: 30px;
+        bottom: 30px;
+    }
+    .vision_trade-section .vision_trade_icon img{
+        width: 85px;
+    }
+    .vision_trade-content h2 {
+        line-height: 44px;
+        margin-bottom: 10px;
+    }
+    .vision_trade-content p {
+        margin-bottom: 10px;
+    }
+    .vision_trade-content ul {
+        margin-bottom: 15px;
+    }
+    .vision_trade-content ul li {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .vision_trade-content ul li .fa {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .btn_wrapper .learn_btn {
+        padding: 16px 20px;
+    }
+
+    .asked_questions-section {
+        padding: 70px 0 65px;
+    }
+    .asked_questions-section .asked_questions_img img{
+        width: 100%;
+    }
+    .asked_questions-section .asked_questions_icon {
+        right: 30px;
+        bottom: 25px;
+    }
+    .asked_questions-section .asked_questions_icon img{
+        width: 85px;
+    }
+    .asked_questions-section .asked_questions_shape {
+        top: 6px;
+        left: 40px;
+    }
+    .asked_questions-content {
+        margin-top: 5px;
+    }
+    .asked_questions-content h2 {
+        line-height: 44px;
+        margin-bottom: 10px;
+    }
+    .asked_questions-content p {
+        margin-bottom: 10px;
+    }
+
+    .question_answer-section {
+        padding: 70px 0;
+    }
+    .question_answer_box_content {
+        padding: 30px 10px 30px;
+    }
+    .question_answer_box_content ul .tick-color-changing .fa {
+        padding: 4px;
+    }
+    .question_answer_box_content .color_changing {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .question_answer_box_content ul li .fa {
+        padding: 4px;
+        height: 22px;
+    }
+    .question_answer_box_content ul li i {
+        margin-right: 5px;
+    }
+    .question_answer_box_content span {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .question_answer_box2_content {
+        padding: 30px 15px;
+    }
+    .question_answer_box2_content ul .tick-color-changing {
+        margin-bottom: 10px;
+    }
+    .question_answer_box2_content ul .tick-color-changing .fa-solid {
+        padding: 6px;
+    }
+    .question_answer_box2_content .color_changing {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .question_answer_box2_content .sub_p {
+        line-height: 24px;
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .question_answer_box2_content ul li .fa-solid {
+        padding: 5px;
+        height: 22px;
+    }
+    .question_answer_box2_content ul li i {
+        margin-right: 5px;
+    }
+    .question_answer_box2_content span {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .question_answer-section .question_answer_shape {
+        display: none;
+    }
+
+    .upload_work_section {
+        padding: 70px 0;
+    }
+    .upload_work-heading p {
+        margin-bottom: 40px;
+        padding: 0 50px;
+    }
+    .upload_work_section .upload_work_shape {
+        left: 10px;
+        top: 15px;
+    }
+    .upload_work_box_content .creative_image {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 10px;
+        width: 55%;
+    }
+    .upload_work_box_content .creative {
+        line-height: 20px;
+    }
+    .upload_work_box_content figure {
+        margin-bottom: 15px;
+    }
+    .upload_work_box_content i {
+        line-height: 28px;
+        height: 28px;
+        width: 28px;
+    }
+    .upload_work_box_content .price_tag {
+        margin-bottom: 18px;
+    }
+    .upload_work_box_content .creative_fixed_price {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .upload_work_box_content .creative_price {
+        line-height: 20px;
+    }
+    .upload_work_box_content .place_bid {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .upload_work_content {
+        padding: 32px 25px;
+    }
+    .upload_work_content .pb-4, .py-4 {
+        padding-bottom: 15px !important;
+    }
+    .upload_work_content .upper_layer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-top: 5px;
+    }
+    .upload_work_content .lower_message {
+        margin-top: 5px;
+    }
+    .upload_work_content .form_button_wrapper .button_style {
+        padding: 18px 25px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .create_wallets_section {
+        padding: 70px 0 40px;
+    }
+    .create_wallets-content h2 {
+        margin-bottom: 18px;
+    }
+    .create_wallets-content p {
+        margin-bottom: 40px;
+        padding: 0 40px;
+    }
+
+    .contact_info-section {
+        padding: 70px 0;
+    }
+    .contact_info_content h2 {
+        margin-bottom: 12px;
+        padding: 0;
+    }
+    .contact_info_content p {
+        padding: 0 50px;
+        margin-bottom: 45px;
+    }
+    .contact_info-section .contact_info_shape {
+        top: 25px;
+        left: 20px;
+    }
+    .contact_info_box_content {
+        padding: 25px 10px;
+    }
+    .contact_info_box_content figure{
+        margin-bottom: 12px;
+    }
+
+    .contact_form_section {
+        padding: 65px 0 70px;
+    }
+    .contact_form_content h2 {
+        margin-bottom: 10px;
+    }
+    .contact_form_content p {
+        margin-bottom: 40px;
+        padding: 0 50px;
+    }
+    .contact_form_section .contact_form_shape {
+        top: 20px;
+        left: 20px;
+    }
+    .contact_form_box_content {
+        padding: 40px 60px 45px 70px;
+    }
+    .contact_form_box_content .form-control {
+        width: 250px;
+    }
+    .contact_form_box_content .message-control .form-control {
+        width: 535px;
+    }
+    .contact_form_box_content .form_button_wrapper {
+        margin-top: 28px;
+        margin-left: 0px;
+    }
+    .contact_form_box_content .form_button_wrapper .button_style {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 20px 100px;
+    }
+
+    .contact_map_section {
+        padding: 70px 0 60px;
+    }
+    .contact_map_section .contact_map_shape {
+        top: 4px;
+        right: 10px;
+    }
+
+    .login-form .login-form-title { 
+        margin-bottom: 30px; 
+    }
+    .login-form .login-card .btn-primary { 
+        font-size: 16px; line-height: 16px; 
+    }
+    .login-form .login-card .forgot-password { 
+        font-size: 16px; 
+    }
+    .login-form .login-form-box .join-now-outer a { 
+        font-size: 16px;
+    }
+
+    .partner-section { 
+        padding: 70px 0; 
+    }
+    .partner-section .heading { 
+        padding-top: 40px; 
+        margin-bottom: 30px; 
+    }
+    .partner-section .owl-carousel .owl-nav { 
+        margin-top: 30px; 
+    }
+    .explore-section { 
+        padding: 70px 0; 
+    }
+    .explore-section .explore-img-1 { 
+        width: 185px; 
+    }
+    .explore-section .explore-img-3 { 
+        width: 180px; 
+    }
+    .explore-section .explore-img-2 { 
+        right: -50px; 
+        width: 135px; 
+        top: 25px; 
+    }
+    .explore-section .circle-1 { 
+        top: 150px; 
+        width: 65px; 
+        left: -25px; 
+    }
+    .explore-section .heading a { 
+        font-size: 16px; 
+        line-height: 16px; 
+        padding: 18px 40px; 
+    }
+    .explore-section .heading { 
+        padding-top: 0; 
+    }
+    .product-detail .product-tab ul li {
+        width: 30.5%; 
+    }
+    .product-detail .auction-box { 
+        padding: 15px; 
+    }
+    .product-detail .auction-middle .left { 
+        width: 55%; 
+    }
+    .product-detail .auction-middle .right { 
+        width: 45%; 
+    }
+    .product-detail .auction-middle .time { 
+        font-size: 14px; 
+    }
+    .product-detail .auction-middle {
+        margin-bottom: 10px; 
+    }
+    .product-detail .heading { 
+        margin-bottom: 20px; 
+    }
+    .product-detail .heading h5 { 
+        margin-bottom: 10px; 
+    }
+    .product-detail .heading h2 { 
+        margin-bottom: 15px; 
+    }
+    .product-detail .product-tab .tab-pane { 
+        padding: 15px; 
+    }
+
+    .product-section { 
+        padding: 70px 0 40px 0; 
+    }
+    .product-section .filter-list .btn { 
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 18px 25px; 
+        margin: 0 3px; 
+    }
+    .product-section .heading { 
+        margin-bottom: 30px; 
+    }
+    .product-section .filter-list { 
+        margin-bottom: 40px; 
+    }
+    .product-section .product-box figure img { 
+        width: 100%; 
+    }
+    .product-section .product-box { 
+        padding: 30px; 
+    }
+    .product-section .product-box-top .rate i { 
+        margin-right: 5px; 
+    }
+    .product-section .filter-list .circle { 
+        bottom: 70px; 
+        width: 60px; 
+    }
+    .nft-section { 
+        padding: 70px 0; 
+    }
+    .nft-section .preview-box-middle .left .name { 
+        font-size: 16px; 
+    }
+    .nft-section .preview-box-middle .right .bid { 
+        font-size: 13px; 
+    }
+    .nft-section .preview-box-middle .right .price { 
+        font-size: 16px; 
+    }
+    .nft-section .preview-box a { 
+        font-size: 16px; 
+        line-height: 16px; 
+        padding: 18px 23px; 
+    }
+    .nft-section .preview-box-middle { 
+        padding-bottom: 25px; 
+    }
+    .nft-section .create-nft-box .form-group .form-control { 
+        font-size: 14px; 
+        font-weight: 500; 
+        height: 50px; 
+        line-height: 50px; 
+        padding: 0 15px; 
+    }
+    .nft-section .create-nft-box .form-group select { 
+        background-position: 91% 21px !important; 
+    }
+    .nft-section .create-nft-box .form-group { 
+        width: 46.6%; 
+        margin: 0 6px 15px; 
+    }
+    .nft-section .create-nft-box .form-group textarea { 
+        height: 110px !important; 
+    }
+    .nft-section .create-nft-box .form-check { 
+        width: 100%; 
+        padding-top: 10px; 
+        padding-bottom: 20px; 
+    }
+    .nft-section .create-nft-box .btn { 
+        font-size: 16px; 
+        line-height: 16px; 
+        padding: 18px 40px; 
+        width: 97%; 
+        margin: 0 6px; 
+    }
+    .nft-section .create-nft-box .btn-outer { 
+        padding-top: 0px; 
+    }
+    .nft-section .create-nft-box .form-check input { 
+        width: 20px; 
+        height: 20px; 
+        line-height: 20px; 
+    }
+    .nft-section .create-nft-box .form-check label { 
+        line-height: 18px; 
+    }
+    .checkout-section .preview-box .product-outer .total { 
+        padding-top: 5px; 
+        font-size: 14px; 
+    }
+    .checkout-section .preview-box .total-price-outer .total { 
+        padding-top: 5px; 
+        font-size: 14px; 
+    }
+    #search input[type="search"] { 
+        font-size: 36px; 
+    }
+    .checkout-section .create-nft-box .form-group select { 
+        background-position: 94.3% 21px !important; 
+    }
+
+    .cart-section .product-image { 
+        width: 20%; 
+    }
+    .cart-section .product-details { 
+        width: 30%; 
+    }
+    .cart-section .product-price { 
+        width: 16%; 
+    }
+    .cart-section .product-quantity { 
+        width: 13%; 
+    }
+}
+
+@media screen and (max-width: 767px){
+    .navbar-collapse {
+        width: 45%;
+        top: 48px;
+        padding: 0;
+    }
+
+    .banner-section {
+        padding: 60px 0 90px;
+    }
+    .banner-section .banner-section-content {
+        padding: 0 0 18px;
+    }
+    .banner-section h6 {
+        margin-bottom: 15px;
+    }
+    h1 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    p {
+        line-height: 26px;
+        padding: 0 30px;
+    }
+    .banner-section p {
+        margin-bottom: 20px;
+    }
+    .btn_wrapper .explore_btn {
+        padding: 16px 22px;
+    }
+    .btn_wrapper .playbtn {
+        padding: 12px 20px;
+    }
+    .banner-section .banner-section-image img{
+        width: 75%;
+    }
+    .banner-section .banner-section-image figure{
+        text-align: center;
+    }
+    .banner-section .banner_shapes{
+        display: none;
+    }
+
+    .trading_auctions-section {
+        padding: 100px 0px 60px;
+    }
+    .trading_auctions-section .carts_outer {
+        margin-top: -144px;
+        margin-left: 25px;
+    }
+    .trading_auctions-section .carts .first {
+        padding: 10px 15px;
+    }
+    .trading_auctions-section .carts li img {
+        width: 38px;
+    }
+    .first .carts_wrapper {
+        margin-left: 5px;
+    }
+    .carts .rating {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .carts .plus_sign {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .carts .profession {
+        line-height: 14px;
+    }
+    .trading_auctions-section .carts .second {
+        padding: 12px 10px;
+        width: 30%;
+    }
+    .second .carts_wrapper {
+        margin-left: 5px;
+    }
+    .trading_auctions-section .carts .third {
+        padding: 10px 15px;
+    }
+    .third .carts_wrapper {
+        margin-left: 10px;
+    }
+    h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .trading_auctions-content h2 {
+        margin-bottom: 15px;
+    }
+    .trading_auctions-content p {
+        padding: 0 10px;
+        margin-bottom: 25px;
+    }
+    .trading_box_content .creative_image {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    .trading_box_content .creative {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .trading_box_content i {
+        font-size: 12px;
+        line-height: 22px;
+        height: 22px;
+        width: 22px;
+    }
+    .trading_box_content .creative_fixed_price {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .trading_box_content .creative_price {
+        line-height: 16px;
+        font-size: 14px;
+    }
+    .trading_box_content .place_bid {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 12px 72px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav {
+        margin-top: 25px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-prev span {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav button.owl-next span {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .create-sell_nft_section {
+        padding: 62px 0;
+    }
+    .create_sell-content h2 {
+        margin-bottom: 15px;
+    }
+    .create_sell-content p {
+        padding: 0 10px;
+        margin-bottom: 25px;
+    }
+    .create-sell_nft_section .create_sell_shape{
+        top: 40px;
+        left: 25px;
+    }
+    .create-sell_nft_section .create_sell_shape img {
+        width: 45px;
+    }
+    .create-sell_box_content {
+        padding: 15px 10px 12px;
+        margin-bottom: 20px;
+    }
+    .create-sell_box_content figure{
+        margin-bottom: 12px;
+    }
+    .create-sell_box_content img{
+        width: 60px;
+    }
+    h3 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .sub_p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0;
+    }
+    .create-sell_nft_section .btn_wrapper {
+        padding-top: 10px;
+    }
+    .btn_wrapper .create_btn {
+        padding: 16px 25px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .btn_wrapper .watch_btn {
+        padding: 16px 25px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .top-creactor_section {
+        padding: 60px 0 45px;
+    }
+    .top_creator-content h2 {
+        margin-bottom: 16px;
+    }
+    .top_creator-content p {
+        padding: 0px 10px;
+        margin-bottom: 20px;
+    }
+
+    .market-place_section {
+        padding: 60px 0 30px;
+    }
+    .market_place-content h2 {
+        margin-bottom: 15px;
+    }
+    .market_place-content p {
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+    .market-place_section .marketplace_shape {
+        top: 25px;
+        left: 20px;
+    }
+    .market-place_section .marketplace_shape img{
+        width: 45px;
+    }
+    .market-place_section .nav-tabs {
+        padding: 0px 40px;
+        margin-bottom: 25px;
+    }
+    .market-place_section .nav-tabs li {
+        margin-right: 8px;
+    }
+    .market-place_section .tabs-box .nav-tabs li a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 10px 16px;
+    }
+    .marketplace_box_content figure {
+        margin-bottom: 15px;
+    }
+    .marketplace_box_content .creative {
+        font-size: 14px;
+        line-height: 18px;
+        margin-left: 5px;
+    }
+    .marketplace_box_content .creative_logo {
+        bottom: 140px;
+        right: 45px;
+    }
+    .marketplace_box_content i {
+        font-size: 12px;
+        line-height: 22px;
+        height: 22px;
+        width: 22px;
+    }
+    .marketplace_box_content .image_price_wrapper {
+        margin-bottom: 12px;
+        margin-left: 5px;
+    }
+    .marketplace_box_content .creative_image {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .marketplace_box_content .creative_price {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .marketplace_box_content .place_bid {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .join-community_section {
+        padding: 53px 0 60px;
+    }
+    .join_community-content h2 {
+        margin-bottom: 12px;
+        padding: 0 80px;
+    }
+    .join_community-content p {
+        padding: 0 10px;
+        margin-bottom: 22px;
+    }
+    .btn_wrapper .join_btn {
+        padding: 16px 30px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .btn_wrapper .login_btn {
+        padding: 14px 20px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .trusted-wallet_section {
+        padding: 60px 0 30px;
+    }
+    .trusted_wallet-content h2 {
+        margin-bottom: 18px;
+    }
+    .trusted_wallet-content p {
+        padding: 0 10px 0;
+        margin-bottom: 25px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape{
+        top: 30px;
+        right: 25px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape img{
+        width: 45px;
+    }
+    .trusted-wallet_box_content {
+        height: 125px;
+        line-height: 125px;
+    }
+
+    .customer-section {
+        padding: 60px 0 50px;
+    }
+    .customer_heading h2 {
+        margin-bottom: 0px;
+    }
+    .customer_content img {
+        width: 165px !important;
+    }
+    .customer_content .customer_paragraph {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+    .customer_content .customer_name {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .customer_content .company_ceo {
+        font-size: 14px;
+        line-height: 30px;
+    }
+
+    .partners_section {
+        padding: 60px 0 50px;
+    }
+    .partners_section .partners_shape {
+        top: 30px;
+        left: 85px;
+    }
+    .partners_section .partners_shape img{
+        width: 45px;
+    }
+    .partners-content p {
+        padding: 0 20px;
+        margin-bottom: 35px;
+    }
+    .partners_section ul li {
+        border: 1px solid var(--borderline-color);
+        width: 45%;
+        height: 100px;
+        line-height: 100px;
+        margin-bottom: 15px;
+        margin-left: 15px;
+    }
+    .partners_section ul li:last-child {
+        border: 1px solid var(--borderline-color);
+    }
+    .partners_section .second li {
+        border-bottom: 1px solid var(--borderline-color);
+    }
+    .partners_section .second li:last-child {
+        border: 1px solid var(--borderline-color);
+    }
+
+    .footer-section {
+        padding: 60px 0 0;
+    }
+    .footer-section .middle-portion {
+        margin-bottom: 60px;
+    }
+    .footer-logo {
+        margin-bottom: 12px;
+    }
+    .footer-logo img {
+        width: 155px;
+    }
+    .footer_paragraph {
+        padding: 0 22px 0 0;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+    .middle-portion .icons_social .live_icons i {
+        width: 38px;
+        height: 38px;
+        line-height: 38px;
+        font-size: 14px;
+        margin-right: 2px;
+    }
+    .footer-section h5 {
+        margin-bottom: 12px;
+    }
+    h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .middle-portion .mb-4, .my-4 {
+        margin-bottom: 12px!important;
+    }
+    .footer-section .middle-portion ul .icons i {
+        line-height: 24px;
+        font-size: 18px;
+    }
+    .footer-section .footer_shape{
+        bottom: 130px;
+        right: 30px;
+    }
+    .footer-section .footer_shape img {
+        width: 45px;
+    }
+    .copyright {
+        padding: 20px 0 10px;
+        text-align: center;
+    }
+    .copyright p {
+        line-height: 18px;
+        margin-left: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .payment {
+        padding: 0 0 20px;
+        text-align: center;
+    }
+    .payment span {
+        margin-right: 10px;
+    }
+    .footer-section .bottom-portion ul .icons i {
+        margin-right: 5px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .sub-banner-section .banner-section {
+        padding: 60px 0;
+    }
+    .sub-banner-section .banner-section .banner-section-content {
+        padding: 0;
+    }
+    .sub-banner-section .banner-section h1 {
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+    .sub-banner-section .banner-section p {
+        padding: 0px 55px;
+        margin-bottom: 15px;
+    }
+    .sub-banner-section .banner-section span {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .sub-banner-section .banner-section .about_banner_shape {
+        display: none;
+    }
+
+    .super_rare-section {
+        padding: 55px 0 94px;
+    }
+    .business-video-section{
+        margin-bottom: 30px;
+    }
+    .videoCoverImage img {
+        float: none;
+        margin-right: 30px;
+    }
+    .videoCoverImage iframe {
+        height: 486px;
+        width: 445px;
+        float: none;
+        margin-right: 30px;
+    }
+    .super_rare-section .super_rare_shape {
+        top: 15px;
+        left: 10px;
+    }
+    .super_rare-section .super_rare_shape img{
+        width: 45px;
+    }
+    .super_rare-content{
+        text-align: center;
+    }
+    .super_rare-content h2 {
+        line-height: 40px;
+        margin-bottom: 5px;
+        padding: 0 75px;
+    }
+    .super_rare-content .btn_wrapper {
+        margin-top: 20px;
+    }
+    .btn_wrapper .discovery_btn {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .next_oppurtunity-section {
+        padding: 100px 0 58px;
+    }
+    .next_oppurtunity-section .carts_outer {
+        margin-top: -144px;
+        margin-left: 25px;
+    }
+    .next_oppurtunity-section .carts .first {
+        padding: 10px 15px;
+    }
+    .next_oppurtunity-section .carts li img {
+        width: 38px;
+    }
+    .next_oppurtunity-section .carts .second {
+        padding: 12px 10px;
+        width: 30%;
+    }
+    .next_oppurtunity-section .carts .third {
+        padding: 10px 15px;
+    }
+    .next_oppurtunity-content p {
+        padding: 0 25px;
+        margin-bottom: 25px;
+    }
+    .next_oppurtunity-section .opportunity_1 {
+        top: 28px;
+        left: -35px;
+    }
+    .next_oppurtunity-section .opportunity_2 {
+        top: 130px;
+        right: -18px;
+    }
+    .next_oppurtunity-section .opportunity_3 {
+        bottom: -92px;
+        left: 55px;
+    }
+    .next_oppurtunity-section .btn_wrapper {
+        margin-top: 50px;
+    }
+    .btn_wrapper .started_btn {
+        padding: 16px 25px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .nft_space_section {
+        padding: 60px 0 30px;
+    }
+    .nft_space-content h2 {
+        margin-bottom: 12px;
+    }
+    .nft_space-content p {
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+    .nft_space_section .nft_space_shape img{
+        width: 45px;
+    }
+    .nft-space_box_content {
+        padding: 20px 10px;
+        margin-bottom: 30px;
+    }
+    .nft-space_box_content figure {
+        margin: 0px 0 18px;
+    }
+    .nft-space_box_content h3 {
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .nft-space_box_content .sub_p {
+        margin-bottom: 12px;
+    }
+    .btn_wrapper .learn_more_btn {
+        padding: 8px 12px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .timeline_section {
+        padding: 60px 0 20px;
+    }
+    .timeline-content h2 {
+        margin-bottom: 10px;
+    }
+    .timeline-content p {
+        padding: 0 25px;
+        margin-bottom: 30px;
+    }
+    .timeline_section .padding_right {
+        height: 565px;
+    }
+    .timeline_map_content {
+        margin-bottom: 40px;
+    }
+    .timeline_map_content span {
+        line-height: 22px;
+        font-size: 14px;
+        padding: 5px 10px;
+    }
+    .timeline_map_content h4 {
+        margin: 5px 0;
+    }
+    h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .timeline_map_content .sub_p {
+        padding-right: 35px;
+    }
+    .timeline_map_content::before {
+        width: 35px;
+        top: -20px;
+    }
+    .timeline_map_content::after {
+        height: 36px;
+        width: 36px;
+        right: 34px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .timeline_wrapper {
+        margin-left: 35px;
+    }
+    .timeline_map_content2::before {
+        left: -35px;
+        top: -20px;
+        width: 35px;
+    }
+    .timeline_map_content2::after {
+        left: 0px;
+        height: 36px;
+        width: 36px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .wallets_section {
+        padding: 60px 0 30px;
+    }
+    .wallets_content {
+        padding: 20px 20px;
+    }
+    .wallets_content img {
+        width: 58px;
+    }
+    .wallets_content span {
+        line-height: 28px;
+        font-size: 16px;
+    }
+    .wallets_content p {
+        line-height: 20px;
+        font-size: 14px;
+        padding: 0 18px 0 0;
+    }
+
+    .collections_section {
+        padding: 60px 0;
+    }
+    .collections-content h2 {
+        padding: 0px 125px;
+    }
+    .collections-content p {
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
+    .collections_section .collections_shape {
+        top: 25px;
+        left: 20px;
+    }
+    .collections_section .collections_shape img{
+        width: 45px;
+    }
+    .collections_section .nav-tabs {
+        padding: 0px 40px;
+        margin-bottom: 25px;
+    }
+    .collections_section .nav-tabs li {
+        margin-right: 8px;
+    }
+    .collections_section .tabs-box .nav-tabs li a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 10px 16px;
+    }
+    .collections_box_content {
+        padding: 12px 12px;
+    }
+    .collections_section .btn_wrapper {
+        margin-top: 20px;
+    }
+    .btn_wrapper .load_more_btn {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 15px 30px;
+    }
+
+    .vision_realism-section {
+        padding: 60px 0;
+    }
+    .vision_realism-section .vision_realism_shape {
+        top: 15px;
+        left: 10px;
+    }
+    .vision_realism-section .vision_realism_shape img{
+        width: 45px;
+    }
+    .vision_realism-section .vision_realism_img {
+        margin-bottom: 30px !important;
+    }
+    .vision_realism-section .vision_realism_icon {
+        bottom: 35px;
+    }
+    .vision_realism-content{
+        text-align: center;
+    }
+    .vision_realism-content h2 {
+        line-height: 40px;
+        margin-bottom: 5px;
+        padding: 0 75px;
+    }
+    .vision_realism-content .btn_wrapper {
+        margin-top: 20px;
+    }
+
+    .vision_trade-section {
+        padding: 50px 0 60px;
+    }
+    .vision_trade-section .vision_trade_icon {
+        bottom: 35px;
+    }
+    .vision_trade-content{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .vision_trade-content h2 {
+        line-height: 40px;
+        margin-bottom: 5px;
+        padding: 0 85px;
+    }
+    .vision_trade-content .btn_wrapper {
+        margin-top: 20px;
+    }
+    .btn_wrapper .learn_btn {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .asked_questions-section {
+        padding: 60px 0 50px;
+    }
+    .asked_questions-section .asked_questions_shape {
+        top: 15px;
+        left: 10px;
+    }
+    .asked_questions-section .asked_questions_shape img{
+        width: 45px;
+    }
+    .asked_questions-section .asked_questions_img {
+        margin-bottom: 30px !important;
+    }
+    .asked_questions-section .asked_questions_icon {
+        bottom: 45px;
+    }
+    .asked_questions-content {
+        margin-top: 0;
+        text-align: center;
+    }
+    .asked_questions-content h2 {
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
+
+    .question_answer-section {
+        padding: 60px 0;
+    }
+    .question_answer_box_content {
+        padding: 20px 30px;
+        width: 60%;
+        margin-left: 105px;
+        margin-bottom: 30px;
+    }
+    .question_answer_box_content ul .tick-color-changing .fa {
+        padding: 3px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .question_answer_box_content .color_changing {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .question_answer_box_content ul li .fa {
+        padding: 3px;
+        height: 18px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .question_answer_box_content ul li i {
+        margin-right: 10px;
+    }
+    .question_answer_box_content span {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .question_answer_box2_content {
+        padding: 20px 15px;
+    }
+    .question_answer_box2_content ul .tick-color-changing {
+        margin-bottom: 5px;
+    }
+    .question_answer_box2_content ul .tick-color-changing .fa-solid {
+        padding: 5px;
+        height: 20px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .question_answer_box2_content ul .tick-color-changing i {
+        margin-right: 10px;
+    }
+    .question_answer_box2_content .color_changing {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .question_answer_box2_content .sub_p {
+        line-height: 22px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .question_answer_box2_content ul li .fa-solid {
+        padding: 4px;
+        height: 18px;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .question_answer_box2_content ul li i {
+        margin-right: 10px;
+    }
+    .question_answer_box2_content span {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .upload_work_section {
+        padding: 60px 0;
+    }
+    .upload_work-heading h2 {
+        margin-bottom: 10px;
+    }
+    .upload_work-heading p {
+        margin-bottom: 30px;
+        padding: 0px 20px;
+    }
+    .upload_work_section .upload_work_shape{
+        left: 20px;
+        top: 20px;
+    } 
+    .upload_work_section .upload_work_shape img{
+        width: 45px;
+    }
+    .upload_work_box_content {
+        padding: 20px 20px;
+    }
+    .upload_work_box_content .creative_image {
+        line-height: 20px;
+        width: 62%;
+    }
+    .upload_work_box_content .creative {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .upload_work_box_content figure {
+        margin-bottom: 10px;
+    }
+    .upload_work_box_content i {
+        line-height: 26px;
+        height: 26px;
+        font-size: 14px;
+        width: 26px;
+    }
+    .upload_work_box_content .price_tag {
+        margin-bottom: 15px;
+    }
+    .upload_work_box_content .creative_fixed_price {
+        line-height: 20px;
+    }
+    .upload_work_box_content .creative_price {
+        line-height: 18px;
+        font-size: 14px;
+    }
+    .upload_work_box_content .place_bid {
+        padding: 12px 60px;
+    }
+    .upload_work_content {
+        padding: 28px 15px;
+    }
+    .upload_work_content .pb-4, .py-4 {
+        padding-bottom: 10px !important;
+    }
+    .upload_work_content .upper_layer {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 3px;
+    }
+    .upload_work_content .lower_message {
+        margin-top: 3px;
+        padding-bottom: 55px;
+    }
+    .upload_work_content .form_button_wrapper {
+        margin-top: 18px;
+    }
+    .upload_work_content .form_button_wrapper .button_style {
+        padding: 16px 20px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .create_wallets_section {
+        padding: 60px 0 30px;
+    }
+    .create_wallets-content h2 {
+        margin-bottom: 12px;
+    }
+    .create_wallets-content p {
+        margin-bottom: 30px;
+        padding: 0 15px;
+    }
+
+    .contact_info-section {
+        padding: 60px 0 30px;
+    }
+    .contact_info_content h2 {
+        margin-bottom: 10px;
+    }
+    .contact_info_content p {
+        padding: 0px 10px;
+        margin-bottom: 35px;
+    }
+    .contact_info-section .contact_info_shape {
+        top: 15px;
+        left: 15px;
+    }
+    .contact_info-section .contact_info_shape img {
+        width: 45px;
+    }
+    .contact_info_box_content {
+        padding: 20px 20px;
+        margin-bottom: 30px;
+    }
+
+    .contact_form_section {
+        padding: 55px 0 60px;
+    }
+    .contact_form_content p {
+        margin-bottom: 30px;
+        padding: 0px 10px;
+    }
+    .contact_form_section .contact_form_shape {
+        top: 25px;
+        left: 25px;
+    }
+    .contact_form_section .contact_form_shape img{
+        width: 45px;
+    }
+    .contact_form_box_content {
+        padding: 40px 50px;
+    }
+    .contact_form_box_content .pb-4, .py-4 {
+        padding-bottom: 15px !important;
+    }
+    .contact_form_box_content .form-control {
+        width: 190px;
+    }
+    .contact_form_box_content .message-control .form-control {
+        width: 400px;
+    }
+    .contact_form_box_content .form_button_wrapper {
+        margin-top: 20px;
+    }
+    .contact_form_box_content .form_button_wrapper .button_style {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 18px 70px;
+    }
+
+    .contact_map_section {
+        padding: 60px 0 50px;
+    }
+    .contact_map_section .contact_map_shape {
+        top: 8px;
+        right: 8px;
+    }
+    .contact_map_section .contact_map_shape img{
+        width: 45px;
+    }
+
+    .login-form .login-page-logo img { 
+        width: 210px; 
+    }
+    .login-form .login-form-box { 
+        width: 450px; 
+    }
+    .login-form .login-form-title { 
+        margin-bottom: 20px; 
+    }
+    .login-form .login-card .btn-primary { 
+        font-size: 14px; line-height: 14px; padding: 14px 20px; 
+    }
+    .login-form .login-card .forgot-password { 
+        font-size: 14px; 
+    }
+    .login-form .login-card label { 
+        font-size: 14px; 
+    }
+    .login-form .login-card .input-field { 
+        font-size: 14px; padding: 0 15px; height: 46px; line-height: 46px; 
+    }
+    .login-form .login-card { 
+        margin-bottom: 20px; 
+    }
+    .login-form .login-form-box .join-now-outer a { 
+        font-size: 14px; 
+    }
+
+    .partner-section { 
+        padding: 60px 0; 
+    }
+    .partner-section .heading { 
+        padding-top: 30px; 
+    }
+    .partner-section .heading h6 { 
+        margin-bottom: 5px; 
+    }
+    .partner-section .auction-middle .name { 
+        font-size: 16px; line-height: 22px; 
+    }
+    .partner-section .auction-top figure { 
+        margin-right: 10px; 
+    }
+    .partner-section .auction-top .name { 
+        font-size: 14px; 
+    }
+    .partner-section .auction-middle .ending { 
+        font-size: 13px; 
+    }
+    .partner-section .auction-middle .time { 
+        font-size: 14px; 
+    }
+    .partner-section .auction-bottom a { 
+        padding: 12px 14px; 
+        font-size: 14px; 
+        line-height: 14px; 
+    }
+    .partner-section .auction-bottom .price { 
+        font-size: 18px; 
+        line-height: 18px; 
+    }
+    .partner-section .owl-carousel .owl-nav button.owl-next, .partner-section .owl-carousel .owl-nav button.owl-prev { 
+        width: 40px; 
+        height: 40px; 
+        line-height: 40px; 
+        margin: 0 5px; 
+    }
+    .partner-section .owl-carousel .owl-nav button.owl-next span, .partner-section .owl-carousel .owl-nav button.owl-prev span { 
+        font-size: 18px; 
+        line-height: 30px; 
+    }
+    .explore-section { 
+        padding: 60px 0; 
+    }
+    .explore-section .explore-img-1 { 
+        width: 250px;
+    }
+    .explore-section .explore-img-3 { 
+        width: 235px; 
+    }
+    .explore-section .explore-img-2 { 
+        right: -80px; 
+        width: 170px; 
+    }
+    .explore-section .circle-1 { 
+        top: 225px;
+        width: 50px; 
+        left: -20px; 
+    }
+    .explore-section .heading h2 { 
+        margin-bottom: 10px;
+        padding: 0 30px; 
+    }
+    .explore-section .heading p { 
+        margin-bottom: 25px; 
+    }
+    .explore-section .heading a { 
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 14px 30px; 
+    }
+    .product-detail .heading h2 { 
+        padding: 0; 
+    }
+    .product-detail .heading p { 
+        margin-bottom: 15px; 
+        padding: 0 30px 0 0;
+    }
+    .product-detail .auction-middle { 
+        margin-bottom: 20px; 
+    }
+    .product-detail .auction-middle .ending { 
+        font-size: 16px; 
+    }
+    .placebid-modal-wrapper .modal-header h3 { 
+        font-size: 26px; 
+        line-height: 32px; 
+    }
+    .placebid-modal-wrapper .btn-close svg {
+        height: 18px; 
+        line-height: 18px; 
+    }
+
+    .product-section { 
+        padding: 60px 0 30px 0; 
+    }
+    .product-section .filter-list .btn { 
+        margin: 5px 3px; 
+        padding: 14px 25px; 
+    }
+    .product-section .heading { 
+        margin-bottom: 25px; 
+    }
+    .product-section .filter-list { 
+        margin-bottom: 30px; 
+    }
+    .product-section .filter-list .circle { 
+        bottom: 125px; 
+    }
+    .product-section .product-box { 
+        padding: 20px; 
+    }
+    .product-section .product-box .btn-link {
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 12px 20px; 
+    }
+    .product-section .product-box-middle .price { 
+        font-size: 16px; 
+    }
+    .product-section .product-box-bottom { 
+        padding-bottom: 20px; 
+        margin-bottom: 20px; 
+    }
+    .product-section .product-box-bottom .name { 
+        font-size: 16px; 
+        line-height: 22px; 
+    }
+    .nft-section { 
+        padding: 60px 0; 
+    }
+    .nft-section .circle { 
+        display: none; 
+    }
+    .nft-section .preview-box .preview-img img { 
+        width: 100%; 
+    }
+    .nft-section .create-nft-box .form-group label { 
+        font-size: 14px; 
+        line-height: 14px; 
+    }
+    .nft-section .create-nft-box .form-check label { 
+        font-size: 14px; 
+        line-height: 18px; 
+        margin-left: 10px; 
+    }
+    .nft-section .create-nft-box .form-group { 
+        width: 47.9%;
+        margin: 0 5px 15px; 
+    }
+    .nft-section .create-nft-box .special { 
+        width: 98% !important; 
+    }
+    .nft-section .preview-box-middle .right { 
+        text-align: right; 
+    }
+    #search input[type="search"] { 
+        font-size: 30px; 
+    }
+    .checkout-section .create-nft-box .form-group select { 
+        background-position: 96.3% 21px !important; 
+    }
+
+    .cart-section .product-detail-box { 
+        padding: 30px; 
+    }
+    .cart-section .shopping-cart { 
+        margin: 0; 
+        padding-top: 20px; 
+        border-top: 1px solid #47476d; 
+    }
+    .cart-section .column-labels { 
+        display: none; 
+    }
+    .cart-section .product-image { 
+        text-align: center; 
+        float: right; 
+        width: auto; 
+    }
+    .cart-section .product-image img {
+        margin: 0 0 10px 10px; 
+    }
+    .cart-section .product-details { 
+        float: none; 
+        margin-bottom: 10px; 
+        width: auto; 
+    }
+    .cart-section .product-price { 
+        clear: both; 
+        width: 90px; 
+    }
+    .cart-section .product-quantity { 
+        width: 100px; 
+    }
+    .cart-section .product-quantity input { 
+        margin-left: 20px; 
+    }
+    .cart-section .product-quantity:before { 
+        content: 'x'; 
+    }
+    .cart-section .product-removal { 
+        width: auto; 
+    }
+    .cart-section .product-line-price { 
+        float: right; 
+        width: 70px; 
+    }
+    .cart-section .product .product-quantity input { 
+        width: 35px; 
+        height: 28px; 
+    }
+}
+
+ @media screen and (max-width: 575px){
+    .navbar-collapse {
+        width: 60%;
+        top: 50px;
+    }
+    .navbar-brand img {
+        width: 185px;
+    }
+
+    .banner-section h6 {
+        margin-bottom: 12px;
+    }
+    .banner-section h1 {
+        margin-bottom: 12px;
+    }
+    h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    p {
+        line-height: 20px;
+        padding: 0 15px;
+    }
+    .banner-section p {
+        margin-bottom: 18px;
+    }
+    .btn_wrapper .explore_btn {
+        padding: 14px 20px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .btn_wrapper .playbtn {
+        padding: 10px 18px;
+        font-size: 14px;
+    }
+
+    .trading_auctions-section .carts_outer {
+        margin-left: 0;
+    }
+    .trading_auctions-section .carts .first {
+        padding: 10px 5px;
+        width: 33%;
+    }
+    .trading_auctions-section .carts li img {
+        width: 28px;
+        margin-top: -18px;
+    }
+    .first .carts_wrapper {
+        margin-left: 0px;
+    }
+    .carts .rating {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .carts .plus_sign {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .carts .profession {
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .trading_auctions-section .carts .second {
+        padding: 12px 5px;
+        width: 33%;
+    }
+    .second .carts_wrapper {
+        margin-left: 0px;
+    }
+    .trading_auctions-section .carts .third {
+        padding: 10px 5px;
+        width: 33%;
+    }
+    .third .carts_wrapper {
+        margin-left: 0px;
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .trading_auctions-content p {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .trading_box_content {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .trading_box_content .creative_image {
+        margin-bottom: 12px;
+    }
+    .trading_box_content figure {
+        margin-bottom: 15px;
+    }
+    .trading_box_content .place_bid {
+        padding: 12px 106px;
+    }
+    .trading_auctions-section .owl-carousel .owl-nav {
+        margin-top: 20px;
+    }
+
+    .create_sell-content h2 {
+        margin-bottom: 10px;
+    }
+    .create_sell-content p {
+        padding: 0 0px;
+        margin-bottom: 20px;
+    }
+    .create-sell_nft_section .create_sell_shape{
+        top: 50px;
+        left: 10px;
+    }
+    .create-sell_nft_section .create_sell_shape img {
+        width: 35px;
+    }
+    .create-sell_box_content {
+        padding: 12px 15px 12px;
+        margin-bottom: 15px;
+        width: 80%;
+        margin-left: 35px;
+    }
+    .create-sell_box_content img {
+        width: 52px;
+    }
+    .btn_wrapper .create_btn {
+        padding: 15px 18px;
+    }
+    .btn_wrapper .watch_btn {
+        padding: 15px 18px;
+    }
+
+    .top_creator-content h2 {
+        margin-bottom: 12px;
+    }
+    .top_creator-content p {
+        padding: 0px 8px;
+        margin-bottom: 15px;
+    }
+
+    .market_place-content h2 {
+        margin-bottom: 10px;
+    }
+    .market_place-content p {
+        padding: 0;
+        margin-bottom: 15px;
+    }
+    .market-place_section .marketplace_shape {
+        top: 35px;
+        left: 15px;
+    }
+    .market-place_section .marketplace_shape img {
+        width: 35px;
+    }
+    .market-place_section .nav-tabs {
+        padding: 0;
+        margin-bottom: 25px;
+        margin-left: 55px;
+    }
+    .market-place_section .nav-tabs li {
+        margin: 0 5px 10px 5px;
+    }
+    .market-place_section .tabs-box .nav-tabs li a{
+        padding: 10px 14px;
+    }
+    .marketplace_box_content .creative {
+        width: 85%;
+    }
+    .join_community-content h2 {
+        padding: 0;
+    }
+    .join_community-content p {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .btn_wrapper .join_btn {
+        padding: 16px 25px;
+    }
+    .btn_wrapper .login_btn {
+        padding: 14px 16px;
+    }
+
+    .trusted_wallet-content h2 {
+        margin-bottom: 12px;
+    }
+    .trusted_wallet-content p {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape{
+        top: 15px;
+        right: 10px;
+    }
+    .trusted-wallet_section .trusted-wallet_shape img {
+        width: 35px;
+    }
+
+    .customer_content img {
+        width: 150px !important;
+    }
+    .customer_content .customer_paragraph {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0 30px;
+    }
+    .customer_content .customer_name {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .customer_content .company_ceo {
+        font-size: 12px;
+        line-height: 26px;
+    }
+
+    .partners_section {
+        padding: 60px 0;
+    }
+    .partners_section .partners_shape {
+        top: 40px;
+        left: 15px;
+    }
+    .partners_section .partners_shape img {
+        width: 35px;
+    }
+    .partners-content h2 {
+        margin-bottom: 5px;
+    }
+    .partners-content p {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .partners_section ul li {
+        width: 80%;
+        height: 100px;
+        line-height: 100px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+    }
+    .partners_section .second li:last-child{
+        margin-bottom: 0;
+    }
+
+    .middle-portion .footer-logo {
+        text-align: center!important;
+    }
+    .footer-logo img {
+        width: 150px;
+    }
+    .footer-section .middle-portion {
+        margin-bottom: 30px;
+    }
+    .footer-section .middle-portion ul li {
+        text-align: center;
+    }
+    .footer_paragraph {
+        padding: 0 0px 0 0;
+        text-align: center;
+    }
+    .middle-portion ul{
+        text-align: center !important;
+    }
+    .middle-portion .icons_social .live_icons i {
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+    }
+    .footer-section h5 {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .middle-portion ul li .support {
+        margin-right: 16px;
+    }
+    .middle-portion ul li .sale {
+        margin-right: 26px;
+    }
+    .middle-portion ul li .phone {
+        margin-right: 52px;
+    }
+    .footer-section .middle-portion ul .icons {
+        display: inline-block !important;
+        float: none;
+    }
+    .footer-section .middle-portion ul .icons i {
+        margin-right: 5px;
+    }
+    .footer-section .footer_shape{
+        bottom: 90px;
+        right: 15px;
+    }
+    .footer-section .footer_shape img {
+        width: 35px;
+    }
+    .copyright {
+        padding: 10px 0;
+    }
+    .copyright p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .payment {
+        padding: 0 0 10px;
+    }
+    .payment span {
+        margin-right: 8px;
+        font-size: 12px;
+    }
+    .footer-section .bottom-portion ul .icons i {
+        margin-right: 3px;
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .sub-banner-section .banner-section h1 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .sub-banner-section .banner-section p {
+        padding: 0px 10px;
+        margin-bottom: 12px;
+    }
+    .sub-banner-section .banner-section span {
+        line-height: 16px;
+    }
+
+    .super_rare-section .super_rare_shape {
+        top: 10px;
+        left: 5px;
+    }
+    .super_rare-section .super_rare_shape img {
+        width: 35px;
+    }
+    .videoCoverImage img {
+        margin-right: 0;
+    }
+    .videoCoverImage iframe{
+        height: 360px;
+        width: 330px;
+        margin-right: 0;
+    }
+    .super_rare-content h2 {
+        line-height: 34px;
+        padding: 0 10px;
+    }
+
+    .next_oppurtunity-section .carts_outer {
+        margin-left: 0;
+    }
+    .next_oppurtunity-section .carts .first {
+        padding: 10px 5px;
+        width: 33%;
+    }
+    .next_oppurtunity-section .carts li img {
+        width: 28px;
+        margin-top: -18px;
+    }
+    .next_oppurtunity-section .carts .second {
+        padding: 12px 5px;
+        width: 33%;
+    }
+    .next_oppurtunity-section .carts .third {
+        padding: 10px 5px;
+        width: 33%;
+    }
+    .next_oppurtunity-content h2 {
+        padding: 0 15px;
+    }
+    .next_oppurtunity-content p {
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+    .next_oppurtunity-section .opportunity_1 {
+        top: 16px;
+        left: -12px;
+    }
+    .next_oppurtunity-section .opportunity_1 img {
+        width: 100px;
+    }
+    .next_oppurtunity-section .opportunity_2 {
+        top: 105px;
+        right: 0;
+    }
+    .next_oppurtunity-section .opportunity_2 img {
+        width: 100px;
+    }
+    .next_oppurtunity-section .opportunity_3 {
+        bottom: -60px;
+        left: 35px;
+    }
+    .next_oppurtunity-section .opportunity_3 img {
+        width: 100px;
+    }
+    .next_oppurtunity-section .btn_wrapper {
+        margin-top: 40px;
+    }
+    .btn_wrapper .started_btn {
+        padding: 14px 18px;
+    }
+
+    .nft_space_section {
+        padding: 60px 0 40px;
+    }
+    .nft_space_section .nft_space_shape {
+        top: 15px;
+        left: 15px;
+    }
+    .nft_space_section .nft_space_shape img {
+        width: 35px;
+    }
+    .nft-space_box_content {
+        padding: 20px 55px;
+        margin-bottom: 20px;
+    }
+
+    .timeline_section {
+        padding: 60px 0 30px;
+    }
+    .timeline-content p {
+        padding: 0px 8px;
+        margin-bottom: 20px;
+    }
+    .timeline_section .padding_right {
+        border-right: none;
+        height: 395px;
+    }
+    .timeline_section .timeline_margin_top {
+        margin-top: 0;
+    }
+    .timeline_map_content {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .timeline_map_content::before {
+        display: none;
+    }
+    .timeline_map_content::after {
+        display: none;
+    }
+    .timeline_map_content span {
+        padding: 5px 12px;
+    }
+    .timeline_map_content h4 {
+        margin: 8px 0;
+    }
+    .timeline_map_content .sub_p{
+        padding: 0 20px;
+    }
+    .timeline_wrapper {
+        margin-left: 25px;
+        margin-top: 0;
+    }
+
+    .wallets_content {
+        padding: 20px 42px;
+        text-align: center;
+        width: 80%;
+        margin-left: 30px;
+    }
+    .wallets_content img {
+        margin-left: 15px;
+    }
+    .wallets_content span {
+        line-height: 26px;
+    }
+    .wallets_content p {
+        padding: 0;
+    }
+
+    .collections-content h2 {
+        padding: 0px 50px;
+    }
+    .collections-content p {
+        padding: 0;
+        margin-bottom: 15px;
+    }
+    .collections_section .collections_shape {
+        top: 35px;
+        left: 15px;
+    }
+    .collections_section .collections_shape img {
+        width: 35px;
+    }
+    .collections_section .nav-tabs {
+        padding: 0;
+        margin-bottom: 25px;
+        margin-left: 55px;
+    }
+    .collections_section .nav-tabs li {
+        margin: 0 5px 10px 5px;
+    }
+    .collections_section .tabs-box .nav-tabs li a{
+        padding: 10px 14px;
+    }
+    .collections_box_content {
+        width: 80%;
+        margin-left: 30px;
+    }
+    .collections_section .btn_wrapper {
+        margin-top: 0px;
+    }
+    .btn_wrapper .load_more_btn {
+        padding: 15px 25px;
+    }
+
+    .vision_realism-section .vision_realism_shape {
+        top: 10px;
+        left: 5px;
+    }
+    .vision_realism-section .vision_realism_shape img {
+        width: 35px;
+    }
+    .vision_realism-section .vision_realism_icon {
+        bottom: 40px;
+        right: 25px;
+    }
+    .vision_realism-section .vision_realism_icon img {
+        width: 65px;
+    }
+    .vision_realism-content h2 {
+        line-height: 34px;
+        padding: 0 10px;
+    }
+
+    .vision_trade-section .vision_trade_icon {
+        bottom: 10px;
+        left: 25px;
+    }
+    .vision_trade-section .vision_trade_icon img {
+        width: 65px;
+    }
+    .vision_trade-content h2 {
+        line-height: 34px;
+        padding: 0 30px;
+    }
+
+    .asked_questions-section .asked_questions_shape {
+        top: 10px;
+        left: 5px;
+    }
+    .asked_questions-section .asked_questions_shape img {
+        width: 35px;
+    }
+    .asked_questions-section .asked_questions_icon {
+        bottom: 40px;
+        right: 25px;
+    }
+    .asked_questions-section .asked_questions_icon img {
+        width: 65px;
+    }
+    .asked_questions-content h2 {
+        line-height: 34px;
+        padding: 0 10px;
+    }
+
+    .question_answer_box_content {
+        padding: 18px 15px;
+        margin-left: 60px;
+    }
+    .question_answer_box_content ul .tick-color-changing .fa {
+        padding: 2px;
+    }
+    .question_answer_box_content .color_changing {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .question_answer_box_content ul li .fa {
+        padding: 2px;
+        height: 16px;
+    }
+    .question_answer_box_content span {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .question_answer_box2_content {
+        padding: 18px 5px;
+    }
+    .question_answer_box2_content ul .tick-color-changing .fa-solid {
+        padding: 4px;
+        height: 18px;
+    }
+    .question_answer_box2_content ul .tick-color-changing i {
+        margin-right: 5px;
+    }
+    .question_answer_box2_content .color_changing {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .question_answer_box2_content ul li i {
+        margin-right: 5px;
+    }
+    .question_answer_box2_content span {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .upload_work-heading p {
+        padding: 0px 8px;
+    }
+    .upload_work_section .upload_work_shape {
+        left: 15px;
+        top: 15px;
+    }
+    .upload_work_section .upload_work_shape img{
+        width: 35px;
+    }
+    .upload_work_content {
+        margin-bottom: 30px;
+    }
+    .upload_work_box_content .place_bid {
+        padding: 12px 105px;
+    }
+
+    .create_wallets-content p {
+        margin-bottom: 25px;
+        padding: 0;
+    }
+
+    .contact_info_content p {
+        padding: 0px 8px;
+        margin-bottom: 30px;
+    }
+    .contact_info-section .contact_info_shape {
+        top: 20px;
+        left: 12px;
+    }
+    .contact_info-section .contact_info_shape img {
+        width: 35px;
+    }
+    .contact_info_box_content {
+        padding: 20px 35px;
+        margin-left: 35px;
+        width: 80%;
+    }
+
+    .contact_form_content h2 {
+        margin-bottom: 5px;
+    }
+    .contact_form_content p {
+        margin-bottom: 25px;
+        padding: 0px 8px;
+    }
+    .contact_form_section .contact_form_shape {
+        top: 15px;
+        left: 15px;
+    }
+    .contact_form_section .contact_form_shape img{
+        width: 35px;
+    }
+    .contact_form_box_content {
+        padding: 30px 30px;
+    }
+    .contact_form_box_content .pb-4, .py-4 {
+        padding-bottom: 15px !important;
+    }
+    .contact_form_box_content .margin_bottom{
+        margin-bottom: 15px
+    }
+    .contact_form_box_content .form-control {
+        width: 100%;
+    }
+    .contact_form_box_content .message-control .form-control {
+        width: 100%;
+    }
+    .contact_form_box_content .form_button_wrapper {
+        margin-top: 18px;
+    }
+    .contact_form_box_content .form_button_wrapper .button_style {
+        padding: 16px 50px;
+    }
+
+    .contact_map_section .contact_map_shape {
+        top: 12px;
+        right: 12px;
+    }
+    .contact_map_section .contact_map_shape img {
+        width: 35px;
+    }
+
+    .login-form .login-page-logo img { 
+        width: 190px;
+    }
+    .login-form .login-page-logo { 
+        margin-bottom: 20px; 
+    }
+    .login-form .login-card { 
+        padding: 25px 20px; 
+    }
+    .login-form .login-form-box { 
+        width: 100%; 
+    }
+
+    .partner-section .auction-box { 
+        margin: 0 15px; 
+        width: auto; 
+    }
+    .explore-section .explore-img-1 { 
+        width: 170px; 
+    }
+    .explore-section .explore-img-2 { 
+        width: 90px; 
+        top: 20px; 
+    }
+    .explore-section .explore-img-3 { 
+        width: 140px; 
+        top: 85px; 
+    }
+    .explore-section .circle-1 { 
+        top: 145px; 
+        width: 45px; 
+        left: -15px; 
+    }
+    .explore-section .heading h2 { 
+        padding: 0; 
+    }
+    .explore-section .heading p { 
+        margin-bottom: 20px; 
+    }
+    .product-detail .heading p { 
+        margin-bottom: 10px; 
+        padding: 0;
+    }
+    .product-detail .heading ul li { 
+        font-size: 14px; 
+        line-height: 24px;
+        margin-bottom: 5px; 
+    }
+    .product-detail .auction-box { 
+        margin: 0; 
+    }
+    .product-detail .auction-middle { 
+        margin-bottom: 10px; 
+    }
+    .product-detail .auction-top .bidder { 
+        font-size: 14px; 
+        line-height: 20px; 
+    }
+    .product-detail .auction-middle .ending { 
+        margin-bottom: 8px; 
+    }
+    .placebid-modal-wrapper .modal-dialog { 
+        max-width: 100%; 
+        margin: 0 15px;
+    }
+    .placebid-modal-wrapper .modal-content { 
+        padding: 20px; 
+    }
+    .placebid-modal-wrapper .modal-header h3 { 
+        font-size: 24px; 
+        line-height: 30px; 
+    }
+    .placebid-modal-wrapper .modal-header { 
+        margin-bottom: 10px; 
+    }
+    .placebid-modal-wrapper p { 
+        padding: 0 15px; 
+    }
+    .placebid-modal-wrapper .modal-body .placebid-form-box .bid-content .bid-content-top .bid-content-left input {
+         font-size: 14px; 
+         height: 45px; 
+         line-height: 45px; 
+    }
+    .placebid-modal-wrapper .modal-body .placebid-form-box .bid-content .bid-content-top .bid-content-left span { 
+        font-size: 14px; 
+    }
+    .placebid-modal-wrapper .bid-content-mid span { 
+        font-size: 14px; 
+        line-height: 18px; 
+    }
+    .placebid-modal-wrapper .bit-continue-button a, .placebid-modal-wrapper .bit-continue-button .cancel {
+        font-size: 14px; 
+        line-height: 14px; 
+    }
+
+    .product-section .filter-list .circle { 
+        bottom: 125px; right: 5px; width: 45px; 
+    }
+    .product-section .filter-list .btn {  
+        padding: 12px 20px; 
+        font-size: 12px; 
+        line-height: 12px; 
+    }
+    .product-section .heading { 
+        margin-bottom: 20px; 
+    }
+    .product-section .filter-list { 
+        margin-bottom: 25px; 
+    }
+    .nft-section .create-nft-box { 
+        padding: 30px 20px; 
+    }
+    .nft-section .create-nft-box .form-group {
+        width: 100%; 
+        margin: 0 0 20px 0; 
+    }
+    .nft-section .create-nft-box .form-group select { 
+        background-position: 93.5% 19px !important; 
+    }
+    .nft-section .create-nft-box .special { 
+        width: 100% !important; 
+    }
+    .nft-section .create-nft-box .form-group .form-control { 
+        height: 46px; 
+        line-height: 46px; 
+    }
+    .nft-section .create-nft-box .form-check { 
+        padding-top: 0px; 
+        padding-bottom: 20px; 
+        padding-left: 20px; 
+    }
+    .nft-section .create-nft-box .form-check input { 
+        width: 16px; 
+        height: 16px; 
+        line-height: 16px; 
+    }
+    .nft-section .create-nft-box .form-check label { 
+        font-size: 14px; 
+        line-height: 14px; 
+        margin-left: 5px; 
+    }
+    .nft-section .create-nft-box .btn { 
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 14px 30px; 
+        width: 100%; 
+        margin: 0 auto; 
+    }
+    .nft-section .preview-box-middle { 
+        padding-bottom: 20px; 
+        margin-bottom: 20px; 
+    }
+    .nft-section .preview-box-top i { 
+        font-size: 18px; 
+        line-height: 24px; 
+    }
+    .nft-section .preview-box a { 
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 14px 20px; 
+    }
+    .checkout-section .preview-box .btn-outer .btn { 
+        font-size: 14px; 
+        line-height: 14px; 
+        padding: 14px 20px; 
+    }
+    #search input[type="search"] {
+        font-size: 24px; 
+    }
+
+    .cart-section .product .product-image img { 
+        width: 65px; 
+    }
+    .cart-section .product-removal { 
+        float: right; 
+    }
+    .cart-section .product-line-price { 
+        float: right; 
+        clear: left; 
+        width: auto; 
+        margin-top: 10px; 
+        font-size: 14px; 
+    }
+    .cart-section .product .product-line-price:before { 
+        content: 'Item Total:'; 
+        font-size: 14px; 
+    }
+    .cart-section .totals .totals-item label { 
+        width: 60%; 
+    }
+    .cart-section .totals .totals-item .totals-value { 
+        width: 40%; 
+    }
+    .cart-section .product-price { 
+        font-size: 14px; 
+    }
+}

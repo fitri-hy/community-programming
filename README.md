@@ -10,5 +10,7 @@ npm install
 node .
 ```
 
+Site data center is in the `data/data.json` folder
+
 Support me by leaving a star.
 Copyright Hytech Group x Happy Coding

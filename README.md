@@ -10,4 +10,5 @@ npm install
 node .
 ```
 
+Support me by leaving a star.
 Copyright Hytech Group x Happy Coding

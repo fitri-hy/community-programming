@@ -5,7 +5,7 @@ const fs = require('fs');
 app.set('view engine', 'ejs');
 
 app.get('/', (req, res) => {
-  fs.readFile('data.json', 'utf8', (err, data) => {
+  fs.readFile('data/data.json', 'utf8', (err, data) => {
     if (err) {
       res.status(500).send('Error reading data file');
     } else {
